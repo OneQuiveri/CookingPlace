@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositories\\CookingPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\triggers\\triggerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggers\\triggerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|c:\\repositories\\cookingplace\\assets\\scripts\\triggers\\unlockroomtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggers\\unlockroomtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\actions\\actionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\actionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\ui\\moneycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\moneycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\managment\\playermoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managment\\playermoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionObject.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Actions\\ActionObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\ActionObject.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Actions\\ActionObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\ActionObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:33:12.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnlockRoomTrigger.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:29:35.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TriggerBase.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Triggers\\TriggerBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Triggers\\TriggerBase.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Triggers\\TriggerBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Triggers\\TriggerBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:04:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoneyCounter.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\UI\\MoneyCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MoneyCounter.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\UI\\MoneyCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MoneyCounter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA+wAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:52:03.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SIngleton.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Patterns\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Singleton.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Patterns\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Singleton.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:14:20.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMoney.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\PlayerMoney.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\PlayerMoney.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\PlayerMoney.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managment\\PlayerMoney.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:03:17.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
