@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: af38f75011f1f864cbbcfae319f96496
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4851843080380301155
+    second: natasa3_0
+  - first:
+      213: -6618678844030390584
+    second: natasa3_1
+  - first:
+      213: 5736154136412181777
+    second: natasa3_2
+  - first:
+      213: 7634748634319361364
+    second: natasa3_3
+  - first:
+      213: 7144326990149609218
+    second: natasa3_4
+  - first:
+      213: 84379307691027731
+    second: natasa3_5
+  - first:
+      213: 6248988141629899121
+    second: natasa3_6
+  - first:
+      213: 401792178388122352
+    second: natasa3_7
+  - first:
+      213: 7107059688719262400
+    second: natasa3_8
+  - first:
+      213: 3756041925318219327
+    second: natasa3_9
+  - first:
+      213: 6895433156484044958
+    second: natasa3_10
+  - first:
+      213: 1505132779838648387
+    second: natasa3_11
+  - first:
+      213: 7898346261558904248
+    second: natasa3_12
+  - first:
+      213: -8569106586893649433
+    second: natasa3_13
+  - first:
+      213: 598572094993740584
+    second: natasa3_14
+  - first:
+      213: 8331659686640375213
+    second: natasa3_15
+  - first:
+      213: 2162171581453565984
+    second: natasa3_16
+  - first:
+      213: 1944587099841723552
+    second: natasa3_17
+  - first:
+      213: 7213878569508120912
+    second: natasa3_18
+  - first:
+      213: 7362435867663162499
+    second: natasa3_19
+  - first:
+      213: 6354858138716982294
+    second: natasa3_20
+  - first:
+      213: -3508310699354557181
+    second: natasa3_21
+  - first:
+      213: -1749206122701625176
+    second: natasa3_22
+  - first:
+      213: -5824720376458393645
+    second: natasa3_23
+  - first:
+      213: 2275352538705003220
+    second: natasa3_24
+  - first:
+      213: 4075505819123920013
+    second: natasa3_25
+  - first:
+      213: 4263104481516304770
+    second: natasa3_26
+  - first:
+      213: -1459349591296551172
+    second: natasa3_27
+  - first:
+      213: 2446054514848509170
+    second: natasa3_28
+  - first:
+      213: -8138290389188022568
+    second: natasa3_29
+  - first:
+      213: 6777539718107893764
+    second: natasa3_30
+  - first:
+      213: 3764084566290524487
+    second: natasa3_31
+  - first:
+      213: -1492843484358004730
+    second: natasa3_32
+  - first:
+      213: -7474484797377765206
+    second: natasa3_33
+  - first:
+      213: -5735732361709560474
+    second: natasa3_34
+  - first:
+      213: -633677965299013366
+    second: natasa3_35
+  - first:
+      213: 5195637999600415064
+    second: natasa3_36
+  - first:
+      213: -8179975564953231678
+    second: natasa3_37
+  - first:
+      213: 1802802493641115153
+    second: natasa3_38
+  - first:
+      213: 8474380215088468277
+    second: natasa3_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: natasa3_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1275
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f31005395355340800000000000000
+      internalID: 4851843080380301155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1275
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceec2b98aab524a0800000000000000
+      internalID: -6618678844030390584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1275
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1155cbdabc9ea9f40800000000000000
+      internalID: 5736154136412181777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1275
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455110aae6314f960800000000000000
+      internalID: 7634748634319361364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1275
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2076a179b8fb52360800000000000000
+      internalID: 7144326990149609218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1275
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d21558886cb2100800000000000000
+      internalID: 84379307691027731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1275
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1718a733b9dd8b650800000000000000
+      internalID: 6248988141629899121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1275
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faba528bd3739500800000000000000
+      internalID: 401792178388122352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1135
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c22c9fc12951a260800000000000000
+      internalID: 7107059688719262400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1135
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3611101b34202430800000000000000
+      internalID: 3756041925318219327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1135
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e989ea81cef71bf50800000000000000
+      internalID: 6895433156484044958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1135
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340341ae94e43e410800000000000000
+      internalID: 1505132779838648387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1135
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c041e3109c9d60800000000000000
+      internalID: 7898346261558904248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1135
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e97eb5d5fa641980800000000000000
+      internalID: -8569106586893649433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1135
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233096262e8e4800800000000000000
+      internalID: 598572094993740584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1135
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da554ab875000a370800000000000000
+      internalID: 8331659686640375213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1023
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200cfff893910e10800000000000000
+      internalID: 2162171581453565984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1023
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7fd81aaf8cfa10800000000000000
+      internalID: 1944587099841723552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1023
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059a5549658dc1460800000000000000
+      internalID: 7213878569508120912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1023
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c58ade960ac2660800000000000000
+      internalID: 7362435867663162499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1023
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cc934cecdf03850800000000000000
+      internalID: 6354858138716982294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_21
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1023
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305f44bb10aff4fc0800000000000000
+      internalID: -3508310699354557181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1023
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a86e619c4299b7e0800000000000000
+      internalID: -1749206122701625176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_23
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1023
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c735adaf6a2fa0800000000000000
+      internalID: -5824720376458393645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 911
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d28b40241da39f10800000000000000
+      internalID: 2275352538705003220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 911
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c2be413fa1f8830800000000000000
+      internalID: 4075505819123920013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 911
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289b72560f6992b30800000000000000
+      internalID: 4263104481516304770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 911
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf658a757495fbbe0800000000000000
+      internalID: -1459349591296551172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_28
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 911
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc29ca1f9122f120800000000000000
+      internalID: 2446054514848509170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_29
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 911
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dee871720cfe0f80800000000000000
+      internalID: -8138290389188022568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 911
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4001ce4f678ae0e50800000000000000
+      internalID: 6777539718107893764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 911
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749e64658f6bc3430800000000000000
+      internalID: 3764084566290524487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 827
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600b599a2ca584be0800000000000000
+      internalID: -1492843484358004730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 827
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ad35adab454890800000000000000
+      internalID: -7474484797377765206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 827
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd6956ec59660b0800000000000000
+      internalID: -5735732361709560474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 827
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092c587f39b437f0800000000000000
+      internalID: -633677965299013366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 827
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85134b3ab3d9a1840800000000000000
+      internalID: 5195637999600415064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 827
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce56932093ea7e80800000000000000
+      internalID: -8179975564953231678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 827
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116caa9f057d40910800000000000000
+      internalID: 1802802493641115153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasa3_39
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 827
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53152fb08eb0b9570800000000000000
+      internalID: 8474380215088468277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      natasa3_0: 4851843080380301155
+      natasa3_1: -6618678844030390584
+      natasa3_10: 6895433156484044958
+      natasa3_11: 1505132779838648387
+      natasa3_12: 7898346261558904248
+      natasa3_13: -8569106586893649433
+      natasa3_14: 598572094993740584
+      natasa3_15: 8331659686640375213
+      natasa3_16: 2162171581453565984
+      natasa3_17: 1944587099841723552
+      natasa3_18: 7213878569508120912
+      natasa3_19: 7362435867663162499
+      natasa3_2: 5736154136412181777
+      natasa3_20: 6354858138716982294
+      natasa3_21: -3508310699354557181
+      natasa3_22: -1749206122701625176
+      natasa3_23: -5824720376458393645
+      natasa3_24: 2275352538705003220
+      natasa3_25: 4075505819123920013
+      natasa3_26: 4263104481516304770
+      natasa3_27: -1459349591296551172
+      natasa3_28: 2446054514848509170
+      natasa3_29: -8138290389188022568
+      natasa3_3: 7634748634319361364
+      natasa3_30: 6777539718107893764
+      natasa3_31: 3764084566290524487
+      natasa3_32: -1492843484358004730
+      natasa3_33: -7474484797377765206
+      natasa3_34: -5735732361709560474
+      natasa3_35: -633677965299013366
+      natasa3_36: 5195637999600415064
+      natasa3_37: -8179975564953231678
+      natasa3_38: 1802802493641115153
+      natasa3_39: 8474380215088468277
+      natasa3_4: 7144326990149609218
+      natasa3_5: 84379307691027731
+      natasa3_6: 6248988141629899121
+      natasa3_7: 401792178388122352
+      natasa3_8: 7107059688719262400
+      natasa3_9: 3756041925318219327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

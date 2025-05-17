@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - SceneUnlocker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Scene1
+  - 
+  - 
+  - 
+  - KITCHEN
+  - french
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PLAYER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: france
+    uniqueID: 4288569551
+    locked: 0
+  - name: france lock
+    uniqueID: 3754615803
+    locked: 0
+  - name: bucataria
+    uniqueID: 263314619
+    locked: 0
+  - name: mold
+    uniqueID: 3765187355
+    locked: 0
+  - name: japannese
+    uniqueID: 2688187149
+    locked: 0
+  - name: japanesse lock
+    uniqueID: 1798705877
+    locked: 0
+  - name: cuptor
+    uniqueID: 149211259
+    locked: 0
+  - name: lock icon
+    uniqueID: 2762642999
+    locked: 0
+  - name: natasha
+    uniqueID: 3788255099
+    locked: 0
+  - name: player
+    uniqueID: 4242053331
+    locked: 0
+  m_RenderingLayers:
+  - Default
