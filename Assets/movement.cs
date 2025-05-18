@@ -6,9 +6,12 @@ public class movement : MonoBehaviour
     private float moveH, moveV;
     [SerializeField] private float moveSpeed = 1.0f;
 
+    [SerializeField] animation _animation;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        if(_animation == null) _animation = GetComponent<animation>();
     }
 
     private void FixedUpdate()
@@ -18,7 +21,7 @@ public class movement : MonoBehaviour
         rb.linearVelocity = new Vector2(moveH, moveV);
 
         Vector2 direction = new Vector2(moveH, moveV);
-        FindObjectOfType<animation>().SetDirection(direction);
+        _animation.SetDirection(direction);
     }
 
 }

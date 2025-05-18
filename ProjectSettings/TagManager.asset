@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - SceneUnlocker
+  - Client
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - Water
   - UI
   - Scene1
-  - 
+  - Client
   - 
   - 
   - KITCHEN

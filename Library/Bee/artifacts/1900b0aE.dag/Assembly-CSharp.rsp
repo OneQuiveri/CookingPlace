@@ -127,8 +127,10 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
+-define:DOTWEEN
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Plugins/Demigiant/DOTween/DOTween.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Managed/UnityEngine/UnityEditor.AdaptivePerformanceModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Managed/UnityEngine/UnityEditor.BuildProfileModule.dll"
@@ -371,6 +373,7 @@
 -r:"Library/PackageCache/com.unity.ext.nunit/net40/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.nuget.mono-cecil/Mono.Cecil.dll"
 -r:"Library/PackageCache/com.unity.visualscripting/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-firstpass.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/PPv2URPConverters.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.ref.dll"
@@ -424,9 +427,20 @@
 "Assets/movement.cs"
 "Assets/Scripts/Actions/ActionObject.cs"
 "Assets/Scripts/Actions/IAction.cs"
+"Assets/Scripts/AI/Behaviour/AIMovoment.cs"
+"Assets/Scripts/AI/Behaviour/AI_Brain.cs"
+"Assets/Scripts/AI/Behaviour/AllyDetection.cs"
+"Assets/Scripts/AI/Behaviour/ClientStateMachine.cs"
+"Assets/Scripts/AI/Behaviour/States/ClientIdle.cs"
+"Assets/Scripts/AI/Behaviour/States/EnterInRoom.cs"
+"Assets/Scripts/AI/Behaviour/States/ExitFromRoom.cs"
+"Assets/Scripts/AI/Behaviour/States/GoToGiveOrder.cs"
 "Assets/Scripts/AI/Path/NPC_Path.cs"
+"Assets/Scripts/Extension/CoreExtension.cs"
 "Assets/Scripts/Managment/PlayerMoney.cs"
 "Assets/Scripts/Patterns/Singleton.cs"
+"Assets/Scripts/Patterns/StateMachine/IState.cs"
+"Assets/Scripts/Patterns/StateMachine/StateMachine.cs"
 "Assets/Scripts/Triggers/TriggerBase.cs"
 "Assets/Scripts/Triggers/UnlockRoomTrigger.cs"
 "Assets/Scripts/UI/MoneyCounter.cs"
