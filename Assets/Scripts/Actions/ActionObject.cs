@@ -10,6 +10,7 @@ public class ActionObject : ScriptableObject, IAction
 
     public void DoAction()
     {
+        Debug.LogError("Action!");
         action?.Invoke();
     }
 }

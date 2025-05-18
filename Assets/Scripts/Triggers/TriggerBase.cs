@@ -1,4 +1,5 @@
 using System;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public abstract class TriggerBase<T> : MonoBehaviour where T : IAction
@@ -22,45 +23,68 @@ public abstract class TriggerBase<T> : MonoBehaviour where T : IAction
     public T exitTrigerAction;
 
 
-    public virtual void OnCollisionEnter2D(Collision2D collider) 
+    protected virtual void Update() 
     {
-        playerInTrigger = true;
-
-        if (playTriggerOnEnter) 
-        {
-            enterTrigerAction.DoAction();
-        }
+        CheckKey();
     }
 
-    public virtual void OnCollisionStay2D(Collision2D collider) 
+    private void CheckKey() 
     {
-        if (playTriggerOnKey) 
+        if (playTriggerOnKey && PlayerInTrigger)
         {
-            if (playTriggerOnce) 
+            if (playTriggerOnce)
             {
                 if (!triggered && Input.GetKeyDown(TriggerKey))
                 {
+                    Debug.LogError("KEY");
                     triggered = true;
-                    interactTrigerAction.DoAction();
+                    interactTrigerAction?.DoAction();
                 }
             }
-            else 
+            else
             {
                 if (Input.GetKeyDown(TriggerKey))
                 {
-                    interactTrigerAction.DoAction();
+                    Debug.LogError("KEY");
+                    interactTrigerAction?.DoAction();
                 }
             }
         }
     }
 
-    public virtual void OnCollisionExit2D(Collision2D collider) 
+    public virtual void OnTriggerEnter2D(Collider2D collider) 
     {
-        playerInTrigger = false;
-
-        if (playTriggerOnExit) 
+        if (collider.gameObject.CompareTag("Player"))
         {
-            exitTrigerAction.DoAction();
+            playerInTrigger = true;
+
+            if (playTriggerOnEnter)
+            {
+                enterTrigerAction?.DoAction();
+            }
+        }
+    }
+
+
+
+    public virtual void OnTriggerStay2D(Collider2D collider) 
+    {
+        if (collider.gameObject.CompareTag("Player"))
+        {
+
+        }
+    }
+
+    public virtual void OnTriggerExit2D(Collider2D collider) 
+    {
+        if (collider.gameObject.CompareTag("Player"))
+        {
+            playerInTrigger = false;
+
+            if (playTriggerOnExit)
+            {
+                exitTrigerAction?.DoAction();
+            }
         }
     }
 }

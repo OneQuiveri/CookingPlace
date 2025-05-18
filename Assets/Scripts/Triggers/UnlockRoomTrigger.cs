@@ -31,6 +31,8 @@ public class UnlockRoomTrigger : TriggerBase<ActionObject>
             }
 
             isPurchased = true;
+
+            PlayerMoney.Instance.ReduceMoney(unlockCost);
         }
     }
 

@@ -424,6 +424,7 @@
 "Assets/movement.cs"
 "Assets/Scripts/Actions/ActionObject.cs"
 "Assets/Scripts/Actions/IAction.cs"
+"Assets/Scripts/AI/Path/NPC_Path.cs"
 "Assets/Scripts/Managment/PlayerMoney.cs"
 "Assets/Scripts/Patterns/Singleton.cs"
 "Assets/Scripts/Triggers/TriggerBase.cs"
