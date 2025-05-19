@@ -7,6 +7,10 @@ namespace OneQuiveri
     {
         protected IState _currentState;
 
+        protected IState _previousState;
+
+        public IState previousState => _previousState;
+
         public IState currentState => _currentState;
 
         public event Action<IState> stateChanged;
@@ -14,6 +18,8 @@ namespace OneQuiveri
         public void Initialize(IState state)
         {
             _currentState = state;
+
+            _previousState = state;
 
             _currentState.Enter();
 
@@ -26,6 +32,8 @@ namespace OneQuiveri
             {
                 return;
             }
+
+            _previousState = _currentState;
 
             _currentState.Exit();
 

@@ -6,4 +6,9 @@ public static class CoreExtension
     {
         return new Vector2(vector.x, vector.y);
     }
+
+    public static Vector2 AddFloat(this Vector3 vector, float value) 
+    {
+        return new Vector2(vector.x + value, vector.y + value);
+    }
 }

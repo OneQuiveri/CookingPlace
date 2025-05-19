@@ -6,8 +6,6 @@ public class ClientIdle : IState
 
     private AI_Brain user;
 
-    const float idleTime = 2f;
-
     private float timeCounter = 0;
 
     public ClientIdle(AI_Brain user) 
@@ -31,15 +29,23 @@ public class ClientIdle : IState
     public void Exit()
     {
         timeCounter = 0;
+        if (user.Emotions.IsShowed) 
+        {
+            user.Emotions.ShowEmotion(false,EmotionType.Sad);
+        }
     }
 
     public void Handle()
     {
         timeCounter += Time.deltaTime;
-        if (timeCounter >= idleTime) 
+        if (!user.AllyDetection.AllyNearby) 
         {
-            user.StateMachine.SetState(user.StateMachine.exitFromRoom);
-            Debug.Log("ExitFromIdle!"); 
+            user.StateMachine.SetState(user.StateMachine.previousState);
         }
+        if(timeCounter >= user.Emotions.sadEmotionTime && !user.Emotions.IsShowed) 
+        {
+            user.Emotions.ShowEmotion(true,EmotionType.Sad);
+        }
+
     }
 }

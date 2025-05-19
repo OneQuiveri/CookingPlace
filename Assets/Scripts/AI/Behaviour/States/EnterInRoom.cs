@@ -34,5 +34,9 @@ public class EnterInRoom : IState
         {
             user.StateMachine.SetState(user.StateMachine.goToGiveOrder);
         }
+        if (user.AllyDetection.AllyNearby) 
+        {
+            user.StateMachine.SetState(user.StateMachine.clientIdle);
+        }
     }
 }

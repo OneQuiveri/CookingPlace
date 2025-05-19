@@ -78,6 +78,8 @@ public class AIMovoment : MonoBehaviour
         if (_animation != null) _animation.SetDirection(direction);
     }
 
+    public Vector2 GetMoveDirection() => new Vector2(moveH, moveV);
+
 #if UNITY_EDITOR
     private void OnDrawGizmos()
     {

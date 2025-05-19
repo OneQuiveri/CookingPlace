@@ -31,6 +31,10 @@ public class GoToGiveOrder : IState
     {
         if (user.TargetArrived) 
         {
+            user.StateMachine.SetState(user.StateMachine.waitOrder);
+        }
+        if (user.AllyDetection.AllyNearby)
+        {
             user.StateMachine.SetState(user.StateMachine.clientIdle);
         }
     }

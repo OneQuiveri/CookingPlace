@@ -11,6 +11,7 @@ public class ClientStateMachine : StateMachine
     public ExitFromRoom exitFromRoom;
     public GoToGiveOrder goToGiveOrder;
     public ClientIdle clientIdle;
+    public WaitOrder waitOrder;
 
     public ClientStateMachine(AI_Brain user) 
     {
@@ -18,6 +19,7 @@ public class ClientStateMachine : StateMachine
         exitFromRoom = new ExitFromRoom(user);
         goToGiveOrder = new GoToGiveOrder(user);
         clientIdle = new ClientIdle(user);
+        waitOrder = new WaitOrder(user);
 
         Initialize(enterInRoom);
     }
