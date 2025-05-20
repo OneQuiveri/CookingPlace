@@ -72,12 +72,15 @@
     <Compile Include="Assets\Scripts\AI\Behaviour\States\ExitFromRoom.cs" />
     <Compile Include="Assets\Scripts\AI\Path\NPC_Path.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\Scripts\Scriptables\ProductRecipe.cs" />
     <Compile Include="Assets\Scripts\AI\Behaviour\States\ClientIdle.cs" />
+    <Compile Include="Assets\Scripts\UI\IngredientToggle.cs" />
     <Compile Include="Assets\Scripts\Managment\PlayerMoney.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\Scripts\AI\Behaviour\States\EnterInRoom.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+    <Compile Include="Assets\Scripts\Scriptables\Ingredient.cs" />
     <Compile Include="Assets\Scripts\UI\MoneyCounter.cs" />
     <Compile Include="Assets\Scripts\AI\Behaviour\States\GoToGiveOrder.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
@@ -91,9 +94,11 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Scripts\Scriptables\Emotion.cs" />
+    <Compile Include="Assets\Scripts\Triggers\CookTrigger.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\Scripts\Patterns\StateMachine\StateMachine.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+    <Compile Include="Assets\Scripts\Triggers\FoodStationTrigger.cs" />
     <Compile Include="Assets\Scripts\AI\Behaviour\AIMovoment.cs" />
     <Compile Include="Assets\Scripts\Actions\IAction.cs" />
     <Compile Include="Assets\animation.cs" />
@@ -109,6 +114,7 @@
     <Compile Include="Assets\Scripts\Extension\CoreExtension.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\Scripts\CookingPot.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
@@ -120,6 +126,7 @@
     <Compile Include="Assets\Scripts\AI\Behaviour\ClientEmotions.cs" />
     <Compile Include="Assets\Scripts\AI\Behaviour\AllyDetection.cs" />
     <Compile Include="Assets\Scripts\AI\Behaviour\ClientStateMachine.cs" />
+    <Compile Include="Assets\Scripts\Managment\OrderManager.cs" />
     <Compile Include="Assets\movement.cs" />
   </ItemGroup>
   <ItemGroup>

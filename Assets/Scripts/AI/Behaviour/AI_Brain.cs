@@ -28,7 +28,7 @@ public class AI_Brain : MonoBehaviour
     
     public ClientEmotions Emotions => emotions;
     
-    
+    public bool AcceptOrder=false;
 
     private void Awake()
     {
@@ -75,5 +75,15 @@ public class AI_Brain : MonoBehaviour
         sprite.color = new Color(1, 1, 1, 1);
         sprite.DOFade(0, timeToFadeOut).SetEase(Ease.InQuad);
         isFaded = true;
+    }
+
+    public void SetReadyProduct(bool value) 
+    {
+        if (value && !OrderManager.Instance.productReady) 
+        {
+            return;
+        }
+
+        AcceptOrder = value;
     }
 }

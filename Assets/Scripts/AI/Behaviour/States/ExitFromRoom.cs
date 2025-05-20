@@ -25,6 +25,7 @@ public class ExitFromRoom : IState
     public void Exit()
     {
         user.transform.position = user.targetPath.path[0].point.transform.position;
+        user.Emotions.ShowEmotion(false, EmotionType.Order);
     }
 
     public void Handle()

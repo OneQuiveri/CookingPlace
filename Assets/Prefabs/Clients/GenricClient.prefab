@@ -246,6 +246,7 @@ MonoBehaviour:
   m_AIMovoment: {fileID: 677020113586456563}
   detection: {fileID: 1036615115514888148}
   emotions: {fileID: 7625202372058863069}
+  AcceptOrder: 0
 --- !u!114 &1036615115514888148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -353,7 +354,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: -52913965
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_TargetDisplay: 0
 --- !u!114 &7389692096787862585
 MonoBehaviour:

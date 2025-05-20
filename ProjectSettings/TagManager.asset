@@ -6,6 +6,7 @@ TagManager:
   tags:
   - SceneUnlocker
   - Client
+  - OrderSpawn
   layers:
   - Default
   - TransparentFX
