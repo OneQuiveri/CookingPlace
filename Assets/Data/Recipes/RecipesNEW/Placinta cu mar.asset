@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c346a53815238647a40a4dda899475c, type: 3}
+  m_Name: Placinta cu mar
+  m_EditorClassIdentifier: 
+  emotion: {fileID: 11400000, guid: 2a98c1a987ee4284fbd08c7f1a5da437, type: 2}
+  recipe:
+  - {fileID: 11400000, guid: a3764320d702ffc468dc0b5328cecb53, type: 2}
+  - {fileID: 11400000, guid: cf9453a083526fb4fab15f20aae129e5, type: 2}
+  - {fileID: 11400000, guid: b5416282d3d3f2341a0f869dde1630d6, type: 2}
+  orderPrice: 25

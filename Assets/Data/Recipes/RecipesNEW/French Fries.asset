@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c346a53815238647a40a4dda899475c, type: 3}
+  m_Name: French Fries
+  m_EditorClassIdentifier: 
+  emotion: {fileID: 11400000, guid: 7bb05973ff6b28c459e85eb73b4f1d2e, type: 2}
+  recipe:
+  - {fileID: 11400000, guid: b3ae26a753a86c04485759953137439b, type: 2}
+  - {fileID: 11400000, guid: ad1daa1ea79f2364ba7e6a0af8b9015f, type: 2}
+  - {fileID: 11400000, guid: 3de553a7982f47a4c8c0b03cfe5daf41, type: 2}
+  orderPrice: 25

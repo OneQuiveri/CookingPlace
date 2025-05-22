@@ -1,0 +1,1329 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.28f1 (f336aca0cab5) revision 15939244'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 15480 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.28f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+F:/Unity Stuff/CookingPlace
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+60441
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: F:/Unity Stuff/CookingPlace
+F:/Unity Stuff/CookingPlace
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [22704]  Target information:
+
+Player connection [22704]  * "[IP] 192.168.0.2 [Port] 0 [Flags] 2 [Guid] 3391690350 [EditorId] 3391690350 [Version] 1048832 [Id] WindowsEditor(7,llynwabie) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22704] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22704] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 36.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.28f1 (f336aca0cab5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Unity Stuff/CookingPlace/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Ti (ID=0x2803)
+    Vendor:   NVIDIA
+    VRAM:     7949 MB
+    Driver:   32.0.15.7640
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005144 seconds.
+- Loaded All Assemblies, in  0.479 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.378 seconds
+Domain Reload Profiling: 856ms
+	BeginReloadAssembly (227ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (161ms)
+		LoadAssemblies (225ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (158ms)
+			TypeCache.Refresh (157ms)
+				TypeCache.ScanAssembly (134ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (379ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (350ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (251ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.950 seconds
+OnLevelWasLoaded was found on OrderManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+OnLevelWasLoaded was found on OrderManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Native extension for WindowsStandalone target not found
+Missing types referenced from component UniversalRenderPipelineGlobalSettings on game object UniversalRenderPipelineGlobalSettings:
+	UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorAssets, Unity.RenderPipelines.Universal.Runtime (1 object)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.259 seconds
+Domain Reload Profiling: 3207ms
+	BeginReloadAssembly (918ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (63ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (911ms)
+		LoadAssemblies (836ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (327ms)
+			TypeCache.Refresh (231ms)
+				TypeCache.ScanAssembly (201ms)
+			BuildScriptInfoCaches (76ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1259ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (923ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (695ms)
+			ProcessInitializeOnLoadMethodAttributes (154ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+database is locked
+Failed to delete database file Library/ShaderCache.db
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 204 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5989 unused Assets / (2.1 MB). Loaded Objects now: 6759.
+Memory consumption went from 184.9 MB to 182.7 MB.
+Total: 50.212500 ms (FindLiveObjects: 30.942300 ms CreateObjectMapping: 9.122700 ms MarkObjects: 7.277500 ms  DeleteObjects: 2.867900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2270.140711 seconds.
+  path: Assets/pink-pixel-art-07isq1mrmpl3u55s.jpg
+  artifactKey: Guid(b46fc788b41d6c74691fea8fd94e4e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pink-pixel-art-07isq1mrmpl3u55s.jpg using Guid(b46fc788b41d6c74691fea8fd94e4e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f32e80713e5b21ad6461fabfb8b6bab7') in 0.4108322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/japanesefloor.png
+  artifactKey: Guid(bb5eb67846402764c881d52e71403db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/japanesefloor.png using Guid(bb5eb67846402764c881d52e71403db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21396a84da6577efa8a2e3e1ebfbdd59') in 0.050841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.363028 seconds.
+  path: Assets/Data/Ingredients/BranzaIngredient.asset
+  artifactKey: Guid(91709f64e103c634699f0c41c0085ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/BranzaIngredient.asset using Guid(91709f64e103c634699f0c41c0085ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd48d6ccb24a3eb91482178ea345cdfe1') in 0.0017771 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.058958 seconds.
+  path: Assets/Data/Ingredients
+  artifactKey: Guid(80e611df0449cd74292c401c92b9be74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients using Guid(80e611df0449cd74292c401c92b9be74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6006694f80ffee455c8bcb6c5f28300b') in 0.0004513 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.943765 seconds.
+  path: Assets/UI/gamestory.png
+  artifactKey: Guid(42f9239891a013f4d879bfa553adb87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/gamestory.png using Guid(42f9239891a013f4d879bfa553adb87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e1f1acb768e0d23f1fa5c0890b84a9f') in 0.0205353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.984952 seconds.
+  path: Assets/UI/Food
+  artifactKey: Guid(e4c13004133e73647a5932c6ad073877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food using Guid(e4c13004133e73647a5932c6ad073877) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b332b894533ec3adb7ee8ef176c40c3') in 0.0006003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.679952 seconds.
+  path: Assets/UI/Food/food
+  artifactKey: Guid(4fef73886aa97a746aff8558f101c1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food using Guid(4fef73886aa97a746aff8558f101c1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f2056b08c9636dda1ace9a42896d09dd') in 0.0007431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074069 seconds.
+  path: Assets/UI/Food/food/suspiciousfood.png
+  artifactKey: Guid(e397ab5c678a752479e5652920e965d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/suspiciousfood.png using Guid(e397ab5c678a752479e5652920e965d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c90268892abcc1970b852fc22ba796cb') in 0.0450175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.808296 seconds.
+  path: Assets/UI/Food/food/ingredients
+  artifactKey: Guid(0edd7586ad0b1984ba251dd3277fe81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients using Guid(0edd7586ad0b1984ba251dd3277fe81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25b0057052adf6851d285034e1eec448') in 0.000689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066476 seconds.
+  path: Assets/UI/Food/food/ingredients/Apple.png
+  artifactKey: Guid(7656c690d83245348ab080a8ffd5e570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Apple.png using Guid(7656c690d83245348ab080a8ffd5e570) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0be37ca66e5ca4f14b693e75b8f42a8c') in 0.0190525 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/Food/food/ingredients/ChickenLeg.png
+  artifactKey: Guid(8fd3d24b98816a94e85cd3fef7b7095d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/ChickenLeg.png using Guid(8fd3d24b98816a94e85cd3fef7b7095d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c1660363f1c80079f1fed761f03ee37') in 0.0170562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UI/Food/food/ingredients/Strawberry.png
+  artifactKey: Guid(6ceca0db11f1bed4fb29d2a80323ec4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Strawberry.png using Guid(6ceca0db11f1bed4fb29d2a80323ec4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35b9340df5de59d797a094317fdfb94e') in 0.0143195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UI/Food/food/ingredients/egg.png
+  artifactKey: Guid(d392f7c807017ba42a8157e97b9ef0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/egg.png using Guid(d392f7c807017ba42a8157e97b9ef0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c43fd35bdcc9e6d869d305eec06a96f6') in 0.0178666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UI/Food/food/ingredients/rice.png
+  artifactKey: Guid(fc64fda4e61a83347a0e7425c86cca5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/rice.png using Guid(fc64fda4e61a83347a0e7425c86cca5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d7dc55c5e1cb9bb2dae86ff20b9384c') in 0.0132196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UI/Food/food/ingredients/nutmix.png
+  artifactKey: Guid(771d08daa7c665149814b4b62622dd46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/nutmix.png using Guid(771d08daa7c665149814b4b62622dd46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c31a3b1a33cc3c5ed80abad1fca732f') in 0.0136162 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UI/Food/food/ingredients/oil.png
+  artifactKey: Guid(ceb0d7d7294e3584b99b93889a353bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/oil.png using Guid(ceb0d7d7294e3584b99b93889a353bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51921274f04d4240169c32cbf8dc8bab') in 0.0112767 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UI/Food/food/ingredients/Onion.png
+  artifactKey: Guid(a1abc8463859a6045a27448f313357d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Onion.png using Guid(a1abc8463859a6045a27448f313357d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b1d47d3b6d19029581d73c183a88790d') in 0.0158851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/UI/Food/food/ingredients/PepperGreen.png
+  artifactKey: Guid(dc3e7e3a21f88ca458ae9c709d8acaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/PepperGreen.png using Guid(dc3e7e3a21f88ca458ae9c709d8acaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd92a4096ec40573fe5f93a6d895e896') in 0.0127721 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UI/Food/food/ingredients/sake.png
+  artifactKey: Guid(314266c6f90a86f41817de1c8a781fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/sake.png using Guid(314266c6f90a86f41817de1c8a781fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81938202009e40a188d205648116c24c') in 0.0137601 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/Food/food/ingredients/Wine.png
+  artifactKey: Guid(078d7fadb85524941ad84195f631a4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Wine.png using Guid(078d7fadb85524941ad84195f631a4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a7c02f581a879259f2512a97763d094') in 0.0125512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UI/Food/food/ingredients/Steak.png
+  artifactKey: Guid(977793e0cceca7049aca744fe4c8180b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Steak.png using Guid(977793e0cceca7049aca744fe4c8180b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e29225b950a51360d88f5c75cd5cf9c') in 0.0127031 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/Food/food/ingredients/Shrimp.png
+  artifactKey: Guid(8b479860c89956943b3a080b2fa13416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Shrimp.png using Guid(8b479860c89956943b3a080b2fa13416) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3055bcce1eee139390bc6727a8057e77') in 0.0157151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/Food/food/ingredients/cinnamon.png
+  artifactKey: Guid(646001659d921214aa5124070df9b76e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/cinnamon.png using Guid(646001659d921214aa5124070df9b76e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce09d81e12dcb77bbe5121e624056f3d') in 0.0201975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UI/Food/food/ingredients/flour.png
+  artifactKey: Guid(35c72e05e507c9245b3edf58e1607efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/flour.png using Guid(35c72e05e507c9245b3edf58e1607efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c9e9565bd9ce94a92a4485fcb90ca99') in 0.0262331 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/Food/food/ingredients/cornmeal.png
+  artifactKey: Guid(129fd8b2b4159b54a8706b58394ddda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/cornmeal.png using Guid(129fd8b2b4159b54a8706b58394ddda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0ff5992daffb8787679f4e440eec4355') in 0.018366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UI/Food/food/ingredients/butter.png
+  artifactKey: Guid(77e91f348977a274990f8aec1060eb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/butter.png using Guid(77e91f348977a274990f8aec1060eb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '006d337673f62b0fc7c5bf794dd863c0') in 0.0177412 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UI/Food/food/ingredients/cottagecheese.png
+  artifactKey: Guid(1b95e30bc7d9e1c43af9dd1d0d792289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/cottagecheese.png using Guid(1b95e30bc7d9e1c43af9dd1d0d792289) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bafe41d2368d4df7f1213456d3f2ed44') in 0.0186146 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UI/Food/food/ingredients/sugar.png
+  artifactKey: Guid(747231de67fb65149999da4c70a7aca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/sugar.png using Guid(747231de67fb65149999da4c70a7aca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b28e39048897f52e27665990858ae07c') in 0.0149165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.007600 seconds.
+  path: Assets/Data/Ingredients/Ingredient.asset
+  artifactKey: Guid(875fa7e24c2d1d1429873ebe54b796a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Ingredient.asset using Guid(875fa7e24c2d1d1429873ebe54b796a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0bcd6d3a0aed187d6b48feb952b4612a') in 0.0020472 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 317.371821 seconds.
+  path: Assets/Data/Ingredients/Cabbage.asset
+  artifactKey: Guid(875fa7e24c2d1d1429873ebe54b796a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Cabbage.asset using Guid(875fa7e24c2d1d1429873ebe54b796a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a559b95943568976b379e95f485c847e') in 0.0011464 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.781798 seconds.
+  path: Assets/Data/Ingredients/Pork Meat.asset
+  artifactKey: Guid(515b583d89613c249a9e3e18bd2dbf72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Pork Meat.asset using Guid(515b583d89613c249a9e3e18bd2dbf72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88a38df840f3f4a7d5541cc79002244b') in 0.0010662 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.491040 seconds.
+  path: Assets/Data/Ingredients/Ingredient.asset
+  artifactKey: Guid(88f32187965e68847a46c2fc1f634e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Ingredient.asset using Guid(88f32187965e68847a46c2fc1f634e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '147f7c950caaa20b6a097b83169bffb4') in 0.0009223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.610010 seconds.
+  path: Assets/Data/Ingredients/Rice.asset
+  artifactKey: Guid(88f32187965e68847a46c2fc1f634e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Rice.asset using Guid(88f32187965e68847a46c2fc1f634e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '55cddd947f2517739cd9c87eadd1ee6d') in 0.0012652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.453013 seconds.
+  path: Assets/Data/Ingredients/Ingredient.asset
+  artifactKey: Guid(21b89c8818407454595fc17bd184327a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Ingredient.asset using Guid(21b89c8818407454595fc17bd184327a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c5f902631212f2a52e0fee4dc9bcc29') in 0.0008223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.608893 seconds.
+  path: Assets/Data/Ingredients/Onion.asset
+  artifactKey: Guid(21b89c8818407454595fc17bd184327a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Onion.asset using Guid(21b89c8818407454595fc17bd184327a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f5a03f7712b5872fd2abe273a298b9f') in 0.0010337 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.718875 seconds.
+  path: Assets/Data/Ingredients/Cornmeal.asset
+  artifactKey: Guid(70927879126b19f40990e7b953b38626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Cornmeal.asset using Guid(70927879126b19f40990e7b953b38626) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec945d87ee0dabdd086c6e40bcbde74f') in 0.0013605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.404133 seconds.
+  path: Assets/Data/Ingredients/Water.asset
+  artifactKey: Guid(4291f4a9ee2142642a42ce1307b5b326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Water.asset using Guid(4291f4a9ee2142642a42ce1307b5b326) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b36341443b00a58df1e36c2dd8050db1') in 0.0008539 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.061572 seconds.
+  path: Assets/Data/Ingredients/Salt.asset
+  artifactKey: Guid(3de553a7982f47a4c8c0b03cfe5daf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Salt.asset using Guid(3de553a7982f47a4c8c0b03cfe5daf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38deb6633f815c92bf2101d7f9de8d1f') in 0.0008268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.695744 seconds.
+  path: Assets/Data/Ingredients/Cottage cheese.asset
+  artifactKey: Guid(1b931461ef91d21418eeb80c101a3b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Cottage cheese.asset using Guid(1b931461ef91d21418eeb80c101a3b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab791c5f2d745a8d07999ed8d21e5137') in 0.0008824 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.648549 seconds.
+  path: Assets/Data/Ingredients/Egg.asset
+  artifactKey: Guid(50b03a4773b7ac34ba2f03b8f941e15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Egg.asset using Guid(50b03a4773b7ac34ba2f03b8f941e15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '099dfed53a11fb775555eb057392441b') in 0.0009436 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.073394 seconds.
+  path: Assets/Data/Ingredients/Sugar.asset
+  artifactKey: Guid(7cdce17a6af6d5b4aa77e213bce70bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Sugar.asset using Guid(7cdce17a6af6d5b4aa77e213bce70bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4f6a8abc7a4119d6335f44fb782e39e') in 0.0008025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.370771 seconds.
+  path: Assets/Data/Ingredients/Apple.asset
+  artifactKey: Guid(cf9453a083526fb4fab15f20aae129e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Apple.asset using Guid(cf9453a083526fb4fab15f20aae129e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '141b996fb4e54ca9cd23e79d7a0a884e') in 0.0008042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.863019 seconds.
+  path: Assets/Data/Ingredients/Cinnamon.asset
+  artifactKey: Guid(b5416282d3d3f2341a0f869dde1630d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Cinnamon.asset using Guid(b5416282d3d3f2341a0f869dde1630d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99143fad0fc3997505f22e700b38d6b9') in 0.0007813 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.183076 seconds.
+  path: Assets/Data/Ingredients/Jam.asset
+  artifactKey: Guid(dec2fa8ae8475f74087c35d561a5cf84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Jam.asset using Guid(dec2fa8ae8475f74087c35d561a5cf84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '792e27952b231f9315fcbdf7d0ebde02') in 0.0008073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.896720 seconds.
+  path: Assets/Data/Ingredients/Oil.asset
+  artifactKey: Guid(ad1daa1ea79f2364ba7e6a0af8b9015f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Oil.asset using Guid(ad1daa1ea79f2364ba7e6a0af8b9015f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '928ebe4bdc4886889a958c07abbc1af9') in 0.0008384 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.803045 seconds.
+  path: Assets/Data/Ingredients/Milk.asset
+  artifactKey: Guid(01f26e72045373948883490ffc5d94b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Milk.asset using Guid(01f26e72045373948883490ffc5d94b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2979b046a3480208b1eae169a1869d34') in 0.0011799 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.381724 seconds.
+  path: Assets/Data/Ingredients/Salmon.asset
+  artifactKey: Guid(5a2b362ed95908b4eb6e401c3597004c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Salmon.asset using Guid(5a2b362ed95908b4eb6e401c3597004c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9fb311168621245f3f5144580ef2fd88') in 0.0007786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.896645 seconds.
+  path: Assets/Data/Ingredients/Nori Sheet.asset
+  artifactKey: Guid(ac51d8db248725b4985f4a6b650f3157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Nori Sheet.asset using Guid(ac51d8db248725b4985f4a6b650f3157) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65e987a3de9de7491568abedabc296f0') in 0.0007972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.273412 seconds.
+  path: Assets/Data/Ingredients/Noodles.asset
+  artifactKey: Guid(d922ace078d3ee34dbcb808fea835e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Noodles.asset using Guid(d922ace078d3ee34dbcb808fea835e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15e62efcd6bfcecac91e1b7a5a2e799c') in 0.0008124 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.496810 seconds.
+  path: Assets/Data/Ingredients/Chicken Meat.asset
+  artifactKey: Guid(f3f79538d9893b64891b32c723189971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Chicken Meat.asset using Guid(f3f79538d9893b64891b32c723189971) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1fea2885ab06d87b3559ba099aaa26cd') in 0.0007823 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.469498 seconds.
+  path: Assets/Data/Ingredients/Curry Paste.asset
+  artifactKey: Guid(82ccce3130576a24f95990aad6de1bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Curry Paste.asset using Guid(82ccce3130576a24f95990aad6de1bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ee18c8e01c8bada78901b13f2eb9d89') in 0.0008703 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.842044 seconds.
+  path: Assets/Data/Ingredients/Garlic.asset
+  artifactKey: Guid(94d28093c74a9fe43bb7e8400b93e200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Garlic.asset using Guid(94d28093c74a9fe43bb7e8400b93e200) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed8e9bf911d25fe13b59d2858241a709') in 0.0009264 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.305219 seconds.
+  path: Assets/Data/Ingredients/Potato.asset
+  artifactKey: Guid(b3ae26a753a86c04485759953137439b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Potato.asset using Guid(b3ae26a753a86c04485759953137439b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54118ea8b5a2668a719b90714f794d6f') in 0.0007875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.561767 seconds.
+  path: Assets/Data/Ingredients/Vanilla Extract.asset
+  artifactKey: Guid(a65bd6b99fa50f74aa09bd55ddf10935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Vanilla Extract.asset using Guid(a65bd6b99fa50f74aa09bd55ddf10935) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0982e76eb605284631f13ddc4000f60') in 0.0010796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.194814 seconds.
+  path: Assets/Data/Ingredients/Butter.asset
+  artifactKey: Guid(ff95cf74eeadd1b44a0058a3b2720589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Butter.asset using Guid(ff95cf74eeadd1b44a0058a3b2720589) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f4a14fdcd9f97a694419186c94bd3bc') in 0.0008663 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.563431 seconds.
+  path: Assets/Data/Ingredients/Nut Mix.asset
+  artifactKey: Guid(37cdbf7240c552340a6bd7feb44b9410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Nut Mix.asset using Guid(37cdbf7240c552340a6bd7feb44b9410) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd1182b58f64ba49f21b09e008ee670be') in 0.0010517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.014399 seconds.
+  path: Assets/Data/Ingredients/Strawberry.asset
+  artifactKey: Guid(0abc364b8186b9849b76754626b67829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Strawberry.asset using Guid(0abc364b8186b9849b76754626b67829) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b99ee3894973f1ff4e346b54863634ec') in 0.0009251 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.572701 seconds.
+  path: Assets/UI/Food/food/foodmd/babaneagra.png
+  artifactKey: Guid(c1840d235d355d646a47449f5dc64b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodmd/babaneagra.png using Guid(c1840d235d355d646a47449f5dc64b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b1504b58e7326d64f3c9f96e039fc32') in 0.019449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/Food/food/foodmd/mamaligacubranza.png
+  artifactKey: Guid(8266e65ca79aae04bb96348556717b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodmd/mamaligacubranza.png using Guid(8266e65ca79aae04bb96348556717b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c96b5bd58b60234db6c073b33e66e204') in 0.0180169 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UI/Food/food/foodmd/vinrosu.png
+  artifactKey: Guid(176b6234ad1fd5d40ac5164a5d1fee1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodmd/vinrosu.png using Guid(176b6234ad1fd5d40ac5164a5d1fee1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd00de30f23fb9a9d41f19f1d96cf655') in 0.0167804 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/Food/food/foodmd/sarmalecusmantana.png
+  artifactKey: Guid(59703b3e1e7931d4d800cbe91b0662b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodmd/sarmalecusmantana.png using Guid(59703b3e1e7931d4d800cbe91b0662b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8730429cc2041f22c955372b83a6c3bb') in 0.0244577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UI/Food/food/foodmd/papanasi.png
+  artifactKey: Guid(85d7913b1a126e04f88ecec096f028bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodmd/papanasi.png using Guid(85d7913b1a126e04f88ecec096f028bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fd2529deb64f6b1518ddc2c3c4160981') in 0.0149485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.827152 seconds.
+  path: Assets/Data/Recipes/ButerRecipe.asset
+  artifactKey: Guid(33c35c0d681133b46bcb30a70371201b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/ButerRecipe.asset using Guid(33c35c0d681133b46bcb30a70371201b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44670af82aa047d59942815f6fc5ebdd') in 0.0027534 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.698780 seconds.
+  path: Assets/Data/Recipes/MamaligaCuBrinzaRecipe.asset
+  artifactKey: Guid(6088efb2fc5506a48b89d3d59a4a9155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/MamaligaCuBrinzaRecipe.asset using Guid(6088efb2fc5506a48b89d3d59a4a9155) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '439bea1db2c3ea42c2ed6e32f6598998') in 0.0026766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.205770 seconds.
+  path: Assets/Data/Recipes/MamaligaRecipe.asset
+  artifactKey: Guid(630aa6cf57a2bc340b266a5ccd669e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/MamaligaRecipe.asset using Guid(630aa6cf57a2bc340b266a5ccd669e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52c9852e86c83565dd962527234291af') in 0.0022198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.688619 seconds.
+  path: Assets/Data/Recipes
+  artifactKey: Guid(e3f5e10e6442bf7438f7b8f52d2b97d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes using Guid(e3f5e10e6442bf7438f7b8f52d2b97d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9803f175490cdff7a2e36ea417cd8867') in 0.0004738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.153306 seconds.
+  path: Assets/Data/Emotions/OrderEmos
+  artifactKey: Guid(b61f658b6f453624d9a5d6359721eb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos using Guid(b61f658b6f453624d9a5d6359721eb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '553a8d78ccfcbfa131e66b4c6bb619e9') in 0.0004437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.821195 seconds.
+  path: Assets/Data/Emotions/OrderEmos/ButerEmo.asset
+  artifactKey: Guid(a43eef32126544f47962ce1474a1b7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/ButerEmo.asset using Guid(a43eef32126544f47962ce1474a1b7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '30bf110f003b249502b8de0b5842fd9c') in 0.0017527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.659090 seconds.
+  path: Assets/Data/Emotions/OrderEmos/MamaligaCuBrinzaEmo.asset
+  artifactKey: Guid(fe2dd48b34936bc4598e38a9e06d06f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/MamaligaCuBrinzaEmo.asset using Guid(fe2dd48b34936bc4598e38a9e06d06f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b45cd0c4a0be4dcca333558429bd07bc') in 0.0009559 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.365081 seconds.
+  path: Assets/Data/Emotions/OrderEmos/MamaligaEmo.asset
+  artifactKey: Guid(6de4f50033681354c9850a7286fb0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/MamaligaEmo.asset using Guid(6de4f50033681354c9850a7286fb0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35021e4c1b287bac8c9bfaf9a360da51') in 0.0014129 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.618460 seconds.
+  path: Assets/Data/Emotions/OrderEmos/PapanasiEmo.asset
+  artifactKey: Guid(2ed4556aeb2ca894c9e700f467bafcd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/PapanasiEmo.asset using Guid(2ed4556aeb2ca894c9e700f467bafcd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6936d51f007a391b8c6fb531f9a8fa0f') in 0.0018383 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.402325 seconds.
+  path: Assets/Data/Emotions/OrderEmos/PlacintaCuVranzaEmo.asset
+  artifactKey: Guid(d93096b806568454085a5c5184354d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/PlacintaCuVranzaEmo.asset using Guid(d93096b806568454085a5c5184354d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a53b9498c52a3e394f46533828076541') in 0.0023935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.581887 seconds.
+  path: Assets/Data/Emotions/OrderEmos/RedWineEmo.asset
+  artifactKey: Guid(0028c72444eb44249ac4b70665d743ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/RedWineEmo.asset using Guid(0028c72444eb44249ac4b70665d743ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2c30c43291779fb051bc7b037c56d8f') in 0.0015619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.426382 seconds.
+  path: Assets/Data/Emotions/OrderEmos/SarmaleCuSmantana.asset
+  artifactKey: Guid(1910aa1f7aa611144a7637382a8c22ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/SarmaleCuSmantana.asset using Guid(1910aa1f7aa611144a7637382a8c22ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7f33a85cceb311d3f0e73b477f06643') in 0.0026436 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.047243 seconds.
+  path: Assets/Data/Emotions/OrderEmos/Shit.asset
+  artifactKey: Guid(97e8786678aafe94ca40d64413d32616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/Shit.asset using Guid(97e8786678aafe94ca40d64413d32616) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8cb2080389ceaa6d48878cb49a37986') in 0.0014636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.217662 seconds.
+  path: Assets/Data/Emotions/OrderEmos/WhiteWineEmo.asset
+  artifactKey: Guid(99fade80fb24fa44b94ab7ddfc9d8ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/WhiteWineEmo.asset using Guid(99fade80fb24fa44b94ab7ddfc9d8ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7d7211e3a2d807e097b55b24b5b7c60') in 0.0018004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.697250 seconds.
+  path: Assets/Data/Emotions/OrderEmos/PlacintaCuMarEmo.asset
+  artifactKey: Guid(a3456cae2ccd13d4f99649abb5d45d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/PlacintaCuMarEmo.asset using Guid(a3456cae2ccd13d4f99649abb5d45d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21cb99094981589ccc9016c41f8ab55e') in 0.0022424 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 150.015228 seconds.
+  path: Assets/Data/Emotions/OrderEmos/Sarmale.asset
+  artifactKey: Guid(8e3457a3a7be20d4987b8300ce7f05a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/Sarmale.asset using Guid(8e3457a3a7be20d4987b8300ce7f05a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc003efda99db77da456ed2eb91fa498') in 0.0017702 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.247462 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos
+  artifactKey: Guid(819993656b8e77e4090499e630617d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos using Guid(819993656b8e77e4090499e630617d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6f6d86f795c5fd5f5a40e0783e59d72') in 0.0005328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.533483 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Sarmale cu smantana.asset
+  artifactKey: Guid(c0212d1d3c6be9948a21057b55e2567c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Sarmale cu smantana.asset using Guid(c0212d1d3c6be9948a21057b55e2567c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0d3a0755329b3ee52d0d1333156e0a2') in 0.0008897 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.410474 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/OrderEmotion.asset
+  artifactKey: Guid(dfede1d38feeb64458ec585e0d6a2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/OrderEmotion.asset using Guid(dfede1d38feeb64458ec585e0d6a2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4141ca2f914059574838e4a5dd1b5dd2') in 0.0008773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.792580 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Mamaliga cu branza.asset
+  artifactKey: Guid(dfede1d38feeb64458ec585e0d6a2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Mamaliga cu branza.asset using Guid(dfede1d38feeb64458ec585e0d6a2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '05856456bac24ae258013713f248812f') in 0.0010504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.459386 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Placinta cu branza.asset
+  artifactKey: Guid(77631abffddfff248a45077eacb9389b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Placinta cu branza.asset using Guid(77631abffddfff248a45077eacb9389b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8df30d4b4e0e4b20be283928df7974a') in 0.0017718 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.318580 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Placinta cu mar.asset
+  artifactKey: Guid(2a98c1a987ee4284fbd08c7f1a5da437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Placinta cu mar.asset using Guid(2a98c1a987ee4284fbd08c7f1a5da437) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa9043b8d0d4b7a69113d3ab9d3f2090') in 0.0008491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.457321 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Papanasi.asset
+  artifactKey: Guid(e731fee88f926714ab015817a6e90176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Papanasi.asset using Guid(e731fee88f926714ab015817a6e90176) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35fcace6632b4230e85dc673e0e5a3ea') in 0.0008686 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.888090 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Baba Neagra.asset
+  artifactKey: Guid(de25ccb1567ecad4c9767b65316f7775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Baba Neagra.asset using Guid(de25ccb1567ecad4c9767b65316f7775) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1975dd486ccc6fb1947b702215a9531e') in 0.0008456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.005312 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Vin rosu.asset
+  artifactKey: Guid(233595e02ac6cf0478d52127db3cffe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Vin rosu.asset using Guid(233595e02ac6cf0478d52127db3cffe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db54350275f2960fa3353695133b7aaf') in 0.0008665 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.568084 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Stewed-fruit compote.asset
+  artifactKey: Guid(887e4c05fac9bbf42b3380ac8667e0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Stewed-fruit compote.asset using Guid(887e4c05fac9bbf42b3380ac8667e0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9bda0b709a1f2d4404f893d3c1d414e4') in 0.000841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.620337 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Red Wine.asset
+  artifactKey: Guid(233595e02ac6cf0478d52127db3cffe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Red Wine.asset using Guid(233595e02ac6cf0478d52127db3cffe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5331a1d41e1bcacf89bc50bb7846fae3') in 0.0015356 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.911233 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Sushi.asset
+  artifactKey: Guid(1d8553b9320dd634c89d1a68f580ebbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Sushi.asset using Guid(1d8553b9320dd634c89d1a68f580ebbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f57bc4a3a4cedda9a79b0348f2b076f9') in 0.0008447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.907181 seconds.
+  path: Assets/UI/Food/food/foodjapan/chickencurry.png
+  artifactKey: Guid(7dbc620bfca4df74aa9d97c9cdd5380d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodjapan/chickencurry.png using Guid(7dbc620bfca4df74aa9d97c9cdd5380d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c6eff1c13956e89aa09cd270770c31d') in 0.0160874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UI/Food/food/foodjapan/mochi.png
+  artifactKey: Guid(3c84a07cb7f0cc3439493d2da06ceb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodjapan/mochi.png using Guid(3c84a07cb7f0cc3439493d2da06ceb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e392e66193c962c555fdda1fec481a80') in 0.0165362 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/Food/food/foodjapan/gyoza.png
+  artifactKey: Guid(4820a186c53d9fb4598fe0844445b9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodjapan/gyoza.png using Guid(4820a186c53d9fb4598fe0844445b9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e57d40536f3335ecdbca757148b9a139') in 0.014576 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UI/Food/food/foodjapan/ramen.png
+  artifactKey: Guid(c0da347e089b96343b0bca80738d885b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodjapan/ramen.png using Guid(c0da347e089b96343b0bca80738d885b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '814acaeeade62312c27f791bab8fc5f6') in 0.0162198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UI/Food/food/foodjapan/sake.png
+  artifactKey: Guid(3bee2db013974c449abd84ef3ebb9dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodjapan/sake.png using Guid(3bee2db013974c449abd84ef3ebb9dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e7abb793cfdfe5fdd5336591938502b') in 0.0143512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.496462 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/OrderEmotion.asset
+  artifactKey: Guid(01f5faf238c4a7d408ea7795e9efa8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/OrderEmotion.asset using Guid(01f5faf238c4a7d408ea7795e9efa8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '90372f436bcf63ae42854d4f83ba6e69') in 0.0009346 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.338548 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Ramen.asset
+  artifactKey: Guid(01f5faf238c4a7d408ea7795e9efa8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Ramen.asset using Guid(01f5faf238c4a7d408ea7795e9efa8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9fddc776c1839c056bf9a79053968799') in 0.0010279 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.781966 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Chicken Curry.asset
+  artifactKey: Guid(292e77eec4f56f64486e9c37225a7a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Chicken Curry.asset using Guid(292e77eec4f56f64486e9c37225a7a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5287eab88259d0d24d03381c7f653f66') in 0.0008288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.717963 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Gyoza.asset
+  artifactKey: Guid(1c7c215fbb8204249a5664ff5cd4a020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Gyoza.asset using Guid(1c7c215fbb8204249a5664ff5cd4a020) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6985725a5a8242b74d27dcb2596f5222') in 0.0009328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.864149 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Fluffy Pancakes.asset
+  artifactKey: Guid(e08509dc8b07ed142947c4ede5d170fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Fluffy Pancakes.asset using Guid(e08509dc8b07ed142947c4ede5d170fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a96581c6263ef02ec068dca6a2d076b') in 0.0008724 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.316423 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Mochi.asset
+  artifactKey: Guid(8fff025d675bf9442aa6e58c1593338f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Mochi.asset using Guid(8fff025d675bf9442aa6e58c1593338f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac8c9e645c9dad506053f5f10786d9c5') in 0.0008345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.200582 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Matcha Green Tea.asset
+  artifactKey: Guid(3f6b6362af5b6cd46acd5ec552f53dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Matcha Green Tea.asset using Guid(3f6b6362af5b6cd46acd5ec552f53dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93feff575e091f0d85249df18aeb949c') in 0.0008624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.872774 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Sake.asset
+  artifactKey: Guid(f744cf68a65da8e4b9b1a88b1240a3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Sake.asset using Guid(f744cf68a65da8e4b9b1a88b1240a3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b58450af7273c198d4d6846a438a366') in 0.0011321 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.748880 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/French Fries.asset
+  artifactKey: Guid(7bb05973ff6b28c459e85eb73b4f1d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/French Fries.asset using Guid(7bb05973ff6b28c459e85eb73b4f1d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c05747cb24ca06b073c212b4033afc0e') in 0.0010112 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.397801 seconds.
+  path: Assets/UI/Food/food/foodfrench/chickenconfit.png
+  artifactKey: Guid(23713d0f96e0a524789c28561fa18294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodfrench/chickenconfit.png using Guid(23713d0f96e0a524789c28561fa18294) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '917c7f49cf67790e1057c1ee1484d83f') in 0.0178256 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UI/Food/food/foodfrench/crepe.png
+  artifactKey: Guid(a48526844f760e34c8f98e09315d1398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodfrench/crepe.png using Guid(a48526844f760e34c8f98e09315d1398) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dde62ce7864f2cbcd833fc04ac0de27c') in 0.0168596 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/Food/food/foodfrench/frenchfries.png
+  artifactKey: Guid(c58acd91db55cbe4ca2fc50b33788fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodfrench/frenchfries.png using Guid(c58acd91db55cbe4ca2fc50b33788fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57c7f32201d5ba58fea279d68ac2f40e') in 0.0157531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/Food/food/foodfrench/hazelnutdacquoise.png
+  artifactKey: Guid(6cdf21482269a3147ad88d9127495451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodfrench/hazelnutdacquoise.png using Guid(6cdf21482269a3147ad88d9127495451) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72052001ade43b0caa258f3ea1a40675') in 0.0160592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UI/Food/food/foodfrench/strawberrycake.png
+  artifactKey: Guid(00dd0a298f596c44c9204884cbacfadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/foodfrench/strawberrycake.png using Guid(00dd0a298f596c44c9204884cbacfadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fb389384a630b1985832146716d2077') in 0.0162989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.347436 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/OrderEmotion.asset
+  artifactKey: Guid(47dc65ddc4e05a44cb3520bbf8bfc8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/OrderEmotion.asset using Guid(47dc65ddc4e05a44cb3520bbf8bfc8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '59304324c70eb29ceae256f2060b5f7d') in 0.0009022 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.210859 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Pudding.asset
+  artifactKey: Guid(47dc65ddc4e05a44cb3520bbf8bfc8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Pudding.asset using Guid(47dc65ddc4e05a44cb3520bbf8bfc8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de13941993e09a1fd02d3913086a2b07') in 0.0015254 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.621450 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Chicken Confit.asset
+  artifactKey: Guid(ccd362769ebc6e94995a021950ec8b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Chicken Confit.asset using Guid(ccd362769ebc6e94995a021950ec8b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49dc6f585bcabadf16345a2067cfaa2b') in 0.0011165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.081584 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Waffles.asset
+  artifactKey: Guid(3e4db46b101a07e43a94988653cebd44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Waffles.asset using Guid(3e4db46b101a07e43a94988653cebd44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0a18c11b10ba7324dd986c69bc9c03d') in 0.00089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.700328 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Hazelnut dacquoise.asset
+  artifactKey: Guid(120c9695101918e45b791becf59826a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Hazelnut dacquoise.asset using Guid(120c9695101918e45b791becf59826a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8f98ad892e271eff4dc41e81559be22') in 0.0008602 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.162875 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Strawberry Cake.asset
+  artifactKey: Guid(8326a70d44bb0534992dd3002ffa101d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Strawberry Cake.asset using Guid(8326a70d44bb0534992dd3002ffa101d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d2b582cabc525abac815cd550aef32b') in 0.001053 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.702418 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/White Wine.asset
+  artifactKey: Guid(f49705e958dd03e4cbdb3c53894a0c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/White Wine.asset using Guid(f49705e958dd03e4cbdb3c53894a0c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a23f6f9d4c6491639cfc0adac91188f') in 0.0008607 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.738038 seconds.
+  path: Assets/Data/Emotions/OrderEmos/NewOrderEmos/Coffee.asset
+  artifactKey: Guid(37515abbbec84084993d10f2ebbbe3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Emotions/OrderEmos/NewOrderEmos/Coffee.asset using Guid(37515abbbec84084993d10f2ebbbe3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd88b126ef5fe215953d8184abcae7fec') in 0.0008305 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.423395 seconds.
+  path: Assets/Data/Recipes/RecipesNEW
+  artifactKey: Guid(dd67788161fb6d84f9f7a5894f91ded6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW using Guid(dd67788161fb6d84f9f7a5894f91ded6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '32f8975257dd16c34b39939c8d4eb20e') in 0.0004699 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.243226 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/ProductRecipe.asset
+  artifactKey: Guid(770f64a397100c445aadab94b06d3fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/ProductRecipe.asset using Guid(770f64a397100c445aadab94b06d3fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b145ca0fb044f2169b8f76ccd7cbb07a') in 0.0008876 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024793 seconds.
+  path: Assets/UI/Emotions/dialog_box.png
+  artifactKey: Guid(93761399e6f00ff45bb968c78c7c3e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Emotions/dialog_box.png using Guid(93761399e6f00ff45bb968c78c7c3e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '530367931d2e163c4d81d4599c6e26f4') in 0.0165817 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.008905 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Sarmale cu smantana.asset
+  artifactKey: Guid(770f64a397100c445aadab94b06d3fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Sarmale cu smantana.asset using Guid(770f64a397100c445aadab94b06d3fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd58ae26dd82174d0f9e0e40aeb93ad4a') in 0.0009233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.728564 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Mamaliga cu branza.asset
+  artifactKey: Guid(3748b8ede7fcdd640aeadaac1ac891de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Mamaliga cu branza.asset using Guid(3748b8ede7fcdd640aeadaac1ac891de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '861d8b880d7be2e0b52a5ca2a599ee4d') in 0.0010281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.439005 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Placinta cu branza.asset
+  artifactKey: Guid(ddb691c35d203714b882a0363cd33f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Placinta cu branza.asset using Guid(ddb691c35d203714b882a0363cd33f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '432c69f00763602a80fbd0cc531329a9') in 0.0012248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.704311 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Placinta cu mar.asset
+  artifactKey: Guid(ebc106bd70bd48f4ca336d0c0e0b20a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Placinta cu mar.asset using Guid(ebc106bd70bd48f4ca336d0c0e0b20a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86c4214fe002284a924d664cbd856ce3') in 0.0010689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.536734 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Papanasi.asset
+  artifactKey: Guid(b1f5d87e4f3d59d4a9daa510c8c51cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Papanasi.asset using Guid(b1f5d87e4f3d59d4a9daa510c8c51cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7056668444ebf3a92cad1fcbb9dce99f') in 0.0009779 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.199328 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Baba Neagra.asset
+  artifactKey: Guid(7c3cf9ef7f1bf574a940ba579b2231f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Baba Neagra.asset using Guid(7c3cf9ef7f1bf574a940ba579b2231f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e12a69b2cea5a9c7199836f7ad7d9b79') in 0.0009198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.930318 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Sushi.asset
+  artifactKey: Guid(52e59ce350618db4088970e1096a38b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Sushi.asset using Guid(52e59ce350618db4088970e1096a38b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e87a081a50af42aa5261452983ce4134') in 0.0009397 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.708861 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Ramen.asset
+  artifactKey: Guid(6a091bcfdcb98094a83d7b8513292aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Ramen.asset using Guid(6a091bcfdcb98094a83d7b8513292aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18b995938c39a85c127986c87bc013d6') in 0.0009671 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.888085 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Checken curry.asset
+  artifactKey: Guid(197de502418308a4fa4ed3e4afe3d29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Checken curry.asset using Guid(197de502418308a4fa4ed3e4afe3d29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4aee5678a400124cab333d865fba0819') in 0.0009636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.045700 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Gyoza.asset
+  artifactKey: Guid(67d22f887e9ba014689f900e359a448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Gyoza.asset using Guid(67d22f887e9ba014689f900e359a448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4cac08433d1055d8c9bb4191a5862f8e') in 0.0008894 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.216001 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Fluffy Pancakes.asset
+  artifactKey: Guid(2e3fa307a356332428da6685b5eda626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Fluffy Pancakes.asset using Guid(2e3fa307a356332428da6685b5eda626) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b9dc3a5f9c8d1ff1d10ab9eedb44657') in 0.0011776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.958699 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Mochi.asset
+  artifactKey: Guid(c19b7869de3266445acf5ab40a82a731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Mochi.asset using Guid(c19b7869de3266445acf5ab40a82a731) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '968531c65c48673c87772f5bc892bb28') in 0.0008834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.617318 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/French Fries.asset
+  artifactKey: Guid(593a3f0e755f4c64f8d3f509fcaf5487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/French Fries.asset using Guid(593a3f0e755f4c64f8d3f509fcaf5487) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '700dd6a149d2c0ff9186a89fa7a6f2fe') in 0.0008585 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.280375 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Pudding.asset
+  artifactKey: Guid(47c7388782af6234dbefb308119dee48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Pudding.asset using Guid(47c7388782af6234dbefb308119dee48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fccd9c569cb588ad3f15b1ca4523b02d') in 0.0008927 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.387467 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Chicken Confit.asset
+  artifactKey: Guid(c027d57c6daa27c43a62d710d2e9e096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Chicken Confit.asset using Guid(c027d57c6daa27c43a62d710d2e9e096) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82e0e65b55fba048e0ce3b5b0a689035') in 0.0008705 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.991167 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Waffles.asset
+  artifactKey: Guid(0b413f005b36d93499b206473275db29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Waffles.asset using Guid(0b413f005b36d93499b206473275db29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38550680cd4ec2de81dc35974e8f6abe') in 0.0008754 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.547200 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Hazelnut dacquoise.asset
+  artifactKey: Guid(7619a0e9db52d034aab89aea7195e3bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Hazelnut dacquoise.asset using Guid(7619a0e9db52d034aab89aea7195e3bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '297791218e130e87bf7fc5efc370dd83') in 0.0008914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.782895 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Strawberry cake.asset
+  artifactKey: Guid(070bf350d8e66b54a828cad5a6e1de88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Strawberry cake.asset using Guid(070bf350d8e66b54a828cad5a6e1de88) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86453035a1c63a315ae2968900bf6e1c') in 0.0008042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.315932 seconds.
+  path: Assets/Data/Ingredients/Egg.asset
+  artifactKey: Guid(50b03a4773b7ac34ba2f03b8f941e15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Egg.asset using Guid(50b03a4773b7ac34ba2f03b8f941e15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '408a121b976665d69228a5027f1a88a9') in 0.0009765 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 733.394057 seconds.
+  path: Assets/Data/Ingredients/Nut Mix.asset
+  artifactKey: Guid(37cdbf7240c552340a6bd7feb44b9410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Nut Mix.asset using Guid(37cdbf7240c552340a6bd7feb44b9410) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f40a4041c449c1698316d9379812378') in 0.0015491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.499524 seconds.
+  path: Assets/Data/Ingredients/Nori Sheet.asset
+  artifactKey: Guid(ac51d8db248725b4985f4a6b650f3157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/Nori Sheet.asset using Guid(ac51d8db248725b4985f4a6b650f3157) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '30b407ad6562ae5145c14f08ce90a275') in 0.001173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.490126 seconds.
+  path: Assets/Data/Recipes/RecipesNEW/Chicken Confit.asset
+  artifactKey: Guid(c027d57c6daa27c43a62d710d2e9e096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Recipes/RecipesNEW/Chicken Confit.asset using Guid(c027d57c6daa27c43a62d710d2e9e096) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b05964b2cd02f4d4300e10df9089eaa') in 0.0020283 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
