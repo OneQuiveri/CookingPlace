@@ -25,6 +25,10 @@ public class ClientEmotions : MonoBehaviour
 
     public int TargetOrderID => targetOrderID;
 
+    public AudioSource sadEmoSound;
+    public AudioSource happyEmoSound;
+    public AudioSource giveOrderEmoSound;
+
     public void ShowEmotion(bool value,EmotionType emotionType)
     {
         if (tween != null && !tween.IsComplete
@@ -42,6 +46,19 @@ public class ClientEmotions : MonoBehaviour
         }
 
         tween.Play();
+
+        switch (emotionType) 
+        {
+            case EmotionType.Glad:
+                happyEmoSound.Play(); 
+                break;
+            case EmotionType.Sad:
+                sadEmoSound.Play();
+                break;
+            case EmotionType.Order:
+                giveOrderEmoSound.Play();
+                break;
+        }
 
         isShowed = value;
     }

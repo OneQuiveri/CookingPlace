@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 9dbad2a1d5c893241a33238ab794a670
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5454900335687792232
+    second: windowforfinishedmeal_0
+  - first:
+      213: 8480474947664424638
+    second: windowforfinishedmeal_1
+  - first:
+      213: -451186112817414942
+    second: windowforfinishedmeal_2
+  - first:
+      213: 2459893239587080781
+    second: windowforfinishedmeal_3
+  - first:
+      213: 1910966273380344663
+    second: windowforfinishedmeal_4
+  - first:
+      213: 4993381596759284519
+    second: windowforfinishedmeal_5
+  - first:
+      213: 2002334689957294829
+    second: windowforfinishedmeal_6
+  - first:
+      213: 3467719875967645819
+    second: windowforfinishedmeal_7
+  - first:
+      213: -3991003544101195924
+    second: windowforfinishedmeal_8
+  - first:
+      213: -3261736503686184002
+    second: windowforfinishedmeal_9
+  - first:
+      213: 1144008131325043452
+    second: windowforfinishedmeal_10
+  - first:
+      213: 9162301349365592674
+    second: windowforfinishedmeal_11
+  - first:
+      213: 8702336567440543755
+    second: windowforfinishedmeal_12
+  - first:
+      213: -5384161067171606899
+    second: windowforfinishedmeal_13
+  - first:
+      213: -1293217391543406092
+    second: windowforfinishedmeal_14
+  - first:
+      213: -359388170457860261
+    second: windowforfinishedmeal_15
+  - first:
+      213: -5300141356941675479
+    second: windowforfinishedmeal_16
+  - first:
+      213: -6317163223504039144
+    second: windowforfinishedmeal_17
+  - first:
+      213: 1424380079940536541
+    second: windowforfinishedmeal_18
+  - first:
+      213: 3095498447594480816
+    second: windowforfinishedmeal_19
+  - first:
+      213: -5657640447233136184
+    second: windowforfinishedmeal_20
+  - first:
+      213: -7693575895751021887
+    second: windowforfinishedmeal_21
+  - first:
+      213: -626976755255596817
+    second: windowforfinishedmeal_22
+  - first:
+      213: -116615991584213758
+    second: windowforfinishedmeal_23
+  - first:
+      213: 471353094785214307
+    second: windowforfinishedmeal_24
+  - first:
+      213: -2524532511273778420
+    second: windowforfinishedmeal_25
+  - first:
+      213: 269390224063191042
+    second: windowforfinishedmeal_26
+  - first:
+      213: 1061537680773388601
+    second: windowforfinishedmeal_27
+  - first:
+      213: 1700740579076189008
+    second: windowforfinishedmeal_28
+  - first:
+      213: 3713410320628486416
+    second: windowforfinishedmeal_29
+  - first:
+      213: 3409588743306797289
+    second: windowforfinishedmeal_30
+  - first:
+      213: -1690058490505936662
+    second: windowforfinishedmeal_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: windowforfinishedmeal_0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 417
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8998b26cb0d4c44b0800000000000000
+      internalID: -5454900335687792232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 417
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe232e8803b0b570800000000000000
+      internalID: 8480474947664424638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 439
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecbde1fe901db9f0800000000000000
+      internalID: -451186112817414942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 417
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a09fa4edb432220800000000000000
+      internalID: 2459893239587080781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753669e63bd158a10800000000000000
+      internalID: 1910966273380344663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 417
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b5fce2b1e0c4540800000000000000
+      internalID: 4993381596759284519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2b85caac8b9cb10800000000000000
+      internalID: 2002334689957294829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78fc9bbad0df1030800000000000000
+      internalID: 3467719875967645819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 417
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fe5800c6b1d98c0800000000000000
+      internalID: -3991003544101195924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 417
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb34cda6eebfbb2d0800000000000000
+      internalID: -3261736503686184002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2a9cf855550ef00800000000000000
+      internalID: 1144008131325043452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262b4068888072f70800000000000000
+      internalID: 9162301349365592674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b009f2a4009e4c870800000000000000
+      internalID: 8702336567440543755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 417
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e8fb1390e9745b0800000000000000
+      internalID: -5384161067171606899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1b2b752a19d0ee0800000000000000
+      internalID: -1293217391543406092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b163fc52330bf0800000000000000
+      internalID: -359388170457860261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_16
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 417
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9247228648d1276b0800000000000000
+      internalID: -5300141356941675479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 417
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81351ea948de458a0800000000000000
+      internalID: -6317163223504039144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 384
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd88ff1d22a64c310800000000000000
+      internalID: 1424380079940536541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 384
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b464abff6b65fa20800000000000000
+      internalID: 3095498447594480816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 384
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c969cb1df50c71b0800000000000000
+      internalID: -5657640447233136184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 384
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caa0413c7dea3590800000000000000
+      internalID: -7693575895751021887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 384
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8209486f78c47f0800000000000000
+      internalID: -626976755255596817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 384
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2053e7e9f52b16ef0800000000000000
+      internalID: -116615991584213758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_24
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 384
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367247274259a8600800000000000000
+      internalID: 471353094785214307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 384
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c030a997e0f07fcd0800000000000000
+      internalID: -2524532511273778420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 384
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208df334bf01db300800000000000000
+      internalID: 269390224063191042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939903a75e65bbe00800000000000000
+      internalID: 1061537680773388601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 384
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bade6bb8e3a9710800000000000000
+      internalID: 1700740579076189008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 384
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011945a130fa88330800000000000000
+      internalID: 3713410320628486416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_30
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 377
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0e8f2b5ea415f20800000000000000
+      internalID: 3409588743306797289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windowforfinishedmeal_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 170
+        width: 182
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c2c7d1c4bb88e0800000000000000
+      internalID: -1690058490505936662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2dc4411c641d9df46bafe4f694507900
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      windowforfinishedmeal_0: -5454900335687792232
+      windowforfinishedmeal_1: 8480474947664424638
+      windowforfinishedmeal_10: 1144008131325043452
+      windowforfinishedmeal_11: 9162301349365592674
+      windowforfinishedmeal_12: 8702336567440543755
+      windowforfinishedmeal_13: -5384161067171606899
+      windowforfinishedmeal_14: -1293217391543406092
+      windowforfinishedmeal_15: -359388170457860261
+      windowforfinishedmeal_16: -5300141356941675479
+      windowforfinishedmeal_17: -6317163223504039144
+      windowforfinishedmeal_18: 1424380079940536541
+      windowforfinishedmeal_19: 3095498447594480816
+      windowforfinishedmeal_2: -451186112817414942
+      windowforfinishedmeal_20: -5657640447233136184
+      windowforfinishedmeal_21: -7693575895751021887
+      windowforfinishedmeal_22: -626976755255596817
+      windowforfinishedmeal_23: -116615991584213758
+      windowforfinishedmeal_24: 471353094785214307
+      windowforfinishedmeal_25: -2524532511273778420
+      windowforfinishedmeal_26: 269390224063191042
+      windowforfinishedmeal_27: 1061537680773388601
+      windowforfinishedmeal_28: 1700740579076189008
+      windowforfinishedmeal_29: 3713410320628486416
+      windowforfinishedmeal_3: 2459893239587080781
+      windowforfinishedmeal_30: 3409588743306797289
+      windowforfinishedmeal_31: -1690058490505936662
+      windowforfinishedmeal_4: 1910966273380344663
+      windowforfinishedmeal_5: 4993381596759284519
+      windowforfinishedmeal_6: 2002334689957294829
+      windowforfinishedmeal_7: 3467719875967645819
+      windowforfinishedmeal_8: -3991003544101195924
+      windowforfinishedmeal_9: -3261736503686184002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

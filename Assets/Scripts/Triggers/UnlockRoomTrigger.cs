@@ -6,10 +6,14 @@ public class UnlockRoomTrigger : TriggerBase<ActionObject>
 
     public int unlockCost = 0;
 
+    public int addMaxClients = 0;
+
     public SpriteRenderer LockedSprite;
 
     [SerializeField] GameObject lockedObject;
     [SerializeField] GameObject unlockedObject;
+
+    [SerializeField] ClientManager clientManager;
 
     private void Awake()
     {
@@ -31,6 +35,8 @@ public class UnlockRoomTrigger : TriggerBase<ActionObject>
             }
 
             isPurchased = true;
+
+            clientManager.maxClients += addMaxClients;
 
             PlayerMoney.Instance.ReduceMoney(unlockCost);
         }

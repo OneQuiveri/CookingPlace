@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\AI\Behaviour\States\ClientIdle.cs" />
     <Compile Include="Assets\Scripts\UI\IngredientToggle.cs" />
     <Compile Include="Assets\Scripts\Managment\PlayerMoney.cs" />
+    <Compile Include="Assets\Scripts\UI\RecipePnanel.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\Scripts\AI\Behaviour\States\EnterInRoom.cs" />
@@ -86,11 +87,13 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\Scripts\Triggers\UnlockRoomTrigger.cs" />
     <Compile Include="Assets\Scripts\Patterns\StateMachine\IState.cs" />
+    <Compile Include="Assets\Scripts\Managment\ClientManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\Scripts\Actions\ActionObject.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+    <Compile Include="Assets\Scripts\UI\ClientCounter.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Scripts\Scriptables\Emotion.cs" />
@@ -99,6 +102,7 @@
     <Compile Include="Assets\Scripts\Patterns\StateMachine\StateMachine.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Scripts\Triggers\FoodStationTrigger.cs" />
+    <Compile Include="Assets\Scripts\Managment\MainMenuManager.cs" />
     <Compile Include="Assets\Scripts\AI\Behaviour\AIMovoment.cs" />
     <Compile Include="Assets\Scripts\Actions\IAction.cs" />
     <Compile Include="Assets\animation.cs" />
@@ -134,6 +138,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Roboto-Bold - License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\UI\Sprout Lands - UI Pack - Basic pack\read_me.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Unity - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\UI\Emotions\Sprout Lands - UI Pack - Basic pack\read_me.txt" />

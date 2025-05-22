@@ -1,5 +1,6 @@
 using UnityEngine;
 using DG.Tweening;
+using System;
 
 public class AI_Brain : MonoBehaviour
 {
@@ -25,7 +26,8 @@ public class AI_Brain : MonoBehaviour
     public AllyDetection AllyDetection => detection;
 
     [SerializeField] ClientEmotions emotions;
-    
+
+    public Action<AI_Brain> OnUserExit;
     public ClientEmotions Emotions => emotions;
     
     public bool AcceptOrder=false;

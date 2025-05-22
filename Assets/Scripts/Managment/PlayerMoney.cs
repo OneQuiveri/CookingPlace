@@ -17,10 +17,7 @@ public class PlayerMoney : Singleton<PlayerMoney>
 
     private Action<int> OnMoneyChanged;
 
-    private void Start()
-    {
-        Instance.AddMoney(100);
-    }
+    public AudioSource addMoneySound;
 
     public void AddActionOnMoneyChanged(Action<int> onMoneyChanged) 
     {
@@ -43,6 +40,7 @@ public class PlayerMoney : Singleton<PlayerMoney>
 
     public void AddMoney(int value) 
     {
+        addMoneySound.Play();
         money += value;
         OnMoneyChanged?.Invoke(money);
     }

@@ -12,12 +12,11 @@ public class OrderManager : Singleton<OrderManager>
 
     public SpriteRenderer orderSpawn;
 
-
     public bool productReady => product >= 0;
 
     public void OnLevelWasLoaded(int level)
     {
-        orderSpawn = GameObject.FindGameObjectWithTag("OrderSpawn")?.GetComponent<SpriteRenderer>();
+        if(orderSpawn == null)orderSpawn = GameObject.FindGameObjectWithTag("OrderSpawn")?.GetComponent<SpriteRenderer>();
     }
 
     public void SetOrder(int orderID) 
@@ -40,9 +39,6 @@ public class OrderManager : Singleton<OrderManager>
 
         if (order == product)
         {
-            product = -1;
-            order = -1;
-
             foreach(ProductRecipe recipe in productRecipes) 
             {
                 if(recipe.id == product) 
@@ -50,6 +46,10 @@ public class OrderManager : Singleton<OrderManager>
                     PlayerMoney.Instance.AddMoney(recipe.orderPrice);
                 }
             }
+
+            product = -1;
+            order = -1;
+
 
             orderSpawn.sprite = null;
 

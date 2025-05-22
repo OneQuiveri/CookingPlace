@@ -32,7 +32,8 @@ public class ExitFromRoom : IState
     {
         if (user.TargetArrived)
         {
-            user.StateMachine.SetState(user.StateMachine.enterInRoom);
+            user.OnUserExit?.Invoke(user);
+            user.StateMachine.SetState(user.StateMachine.clientIdle);
         }
     }
 }
