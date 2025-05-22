@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c346a53815238647a40a4dda899475c, type: 3}
+  m_Name: Strawberry cake
+  m_EditorClassIdentifier: 
+  emotion: {fileID: 11400000, guid: 8326a70d44bb0534992dd3002ffa101d, type: 2}
+  recipe:
+  - {fileID: 11400000, guid: 0abc364b8186b9849b76754626b67829, type: 2}
+  - {fileID: 11400000, guid: 50b03a4773b7ac34ba2f03b8f941e15b, type: 2}
+  - {fileID: 11400000, guid: 7cdce17a6af6d5b4aa77e213bce70bd3, type: 2}
+  orderPrice: 25

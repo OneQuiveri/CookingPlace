@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      windowforfinishedmeal_0: -5454900335687792232
+      windowforfinishedmeal_1: 8480474947664424638
+      windowforfinishedmeal_10: 1144008131325043452
+      windowforfinishedmeal_11: 9162301349365592674
+      windowforfinishedmeal_12: 8702336567440543755
+      windowforfinishedmeal_13: -5384161067171606899
+      windowforfinishedmeal_14: -1293217391543406092
+      windowforfinishedmeal_15: -359388170457860261
+      windowforfinishedmeal_16: -5300141356941675479
+      windowforfinishedmeal_17: -6317163223504039144
+      windowforfinishedmeal_18: 1424380079940536541
+      windowforfinishedmeal_19: 3095498447594480816
+      windowforfinishedmeal_2: -451186112817414942
+      windowforfinishedmeal_20: -5657640447233136184
+      windowforfinishedmeal_21: -7693575895751021887
+      windowforfinishedmeal_22: -626976755255596817
+      windowforfinishedmeal_23: -116615991584213758
+      windowforfinishedmeal_24: 471353094785214307
+      windowforfinishedmeal_25: -2524532511273778420
+      windowforfinishedmeal_26: 269390224063191042
+      windowforfinishedmeal_27: 1061537680773388601
+      windowforfinishedmeal_28: 1700740579076189008
+      windowforfinishedmeal_29: 3713410320628486416
+      windowforfinishedmeal_3: 2459893239587080781
+      windowforfinishedmeal_30: 3409588743306797289
+      windowforfinishedmeal_31: -1690058490505936662
+      windowforfinishedmeal_4: 1910966273380344663
+      windowforfinishedmeal_5: 4993381596759284519
+      windowforfinishedmeal_6: 2002334689957294829
+      windowforfinishedmeal_7: 3467719875967645819
+      windowforfinishedmeal_8: -3991003544101195924
+      windowforfinishedmeal_9: -3261736503686184002
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

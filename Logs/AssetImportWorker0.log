@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.28f1 (f336aca0cab5) revision 15939244'; Using compiler version '193933523'; Build Type 'Release'
-OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'ru' Physical Memory: 16236 MB
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 15480 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\6000.0.28f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Repositories/CookingPlace
+F:/Unity Stuff/CookingPlace
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64252
+60441
 -job-worker-count
 5
 -background-job-worker-count
 8
 -asset-garbage-collectors
 1
-Successfully changed project path to: C:/Repositories/CookingPlace
-C:/Repositories/CookingPlace
+Successfully changed project path to: F:/Unity Stuff/CookingPlace
+F:/Unity Stuff/CookingPlace
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,12 +59,12 @@ C:/Repositories/CookingPlace
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [25724]  Target information:
+Player connection [24428]  Target information:
 
-Player connection [25724]  * "[IP] 192.168.100.4 [Port] 0 [Flags] 2 [Guid] 2467529900 [EditorId] 2467529900 [Version] 1048832 [Id] WindowsEditor(7,OneQuiveri) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [24428]  * "[IP] 192.168.0.2 [Port] 0 [Flags] 2 [Guid] 1283041463 [EditorId] 1283041463 [Version] 1048832 [Id] WindowsEditor(7,llynwabie) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25724] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [25724] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [24428] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [24428] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -75,62 +75,60 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 122.74 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 18.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.28f1 (f336aca0cab5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Repositories/CookingPlace/Assets
+[Subsystems] Discovering subsystems at path F:/Unity Stuff/CookingPlace/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x24dd)
+    Renderer: NVIDIA GeForce RTX 4060 Ti (ID=0x2803)
     Vendor:   NVIDIA
-    VRAM:     8020 MB
-    Driver:   32.0.15.5585
+    VRAM:     7949 MB
+    Driver:   32.0.15.7640
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.507320 seconds.
-- Loaded All Assemblies, in 12.279 seconds
+Registered in 0.005282 seconds.
+- Loaded All Assemblies, in  0.480 seconds
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.563 seconds
-Domain Reload Profiling: 12841ms
-	BeginReloadAssembly (9580ms)
+- Finished resetting the current domain, in  0.465 seconds
+Domain Reload Profiling: 944ms
+	BeginReloadAssembly (230ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (480ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (561ms)
-	LoadAllAssembliesAndSetupDomain (1645ms)
-		LoadAssemblies (9577ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (162ms)
+		LoadAssemblies (228ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (1642ms)
-			TypeCache.Refresh (1640ms)
-				TypeCache.ScanAssembly (1303ms)
+		AnalyzeDomain (159ms)
+			TypeCache.Refresh (158ms)
+				TypeCache.ScanAssembly (133ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (564ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (465ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (501ms)
+		SetupLoadedEditorAssemblies (391ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (27ms)
 			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (9ms)
-			ProcessInitializeOnLoadAttributes (320ms)
-			ProcessInitializeOnLoadMethodAttributes (136ms)
-			AfterProcessingInitializeOnLoad (4ms)
+			BeforeProcessingInitializeOnLoad (12ms)
+			ProcessInitializeOnLoadAttributes (296ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
@@ -138,67 +136,250 @@ Domain Reload Profiling: 12841ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in 11.931 seconds
+- Loaded All Assemblies, in  1.866 seconds
 OnLevelWasLoaded was found on OrderManager
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
-Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
 OnLevelWasLoaded was found on OrderManager
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Missing types referenced from component UniversalRenderPipelineGlobalSettings on game object UniversalRenderPipelineGlobalSettings:
 	UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorAssets, Unity.RenderPipelines.Universal.Runtime (1 object)
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  2.104 seconds
-Domain Reload Profiling: 14031ms
-	BeginReloadAssembly (913ms)
+- Finished resetting the current domain, in  1.364 seconds
+Domain Reload Profiling: 3227ms
+	BeginReloadAssembly (801ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (42ms)
-	RebuildCommonClasses (50ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (47ms)
-	LoadAllAssembliesAndSetupDomain (10904ms)
-		LoadAssemblies (9942ms)
+		CreateAndSetChildDomain (79ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (927ms)
+		LoadAssemblies (803ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (1097ms)
-			TypeCache.Refresh (953ms)
-				TypeCache.ScanAssembly (860ms)
-			BuildScriptInfoCaches (121ms)
-			ResolveRequiredComponents (19ms)
-	FinalizeReload (2104ms)
+		AnalyzeDomain (340ms)
+			TypeCache.Refresh (251ms)
+				TypeCache.ScanAssembly (221ms)
+			BuildScriptInfoCaches (74ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1364ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1242ms)
+		SetupLoadedEditorAssemblies (1027ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
-			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (97ms)
-			ProcessInitializeOnLoadAttributes (600ms)
-			ProcessInitializeOnLoadMethodAttributes (521ms)
-			AfterProcessingInitializeOnLoad (14ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (26ms)
+			BeforeProcessingInitializeOnLoad (204ms)
+			ProcessInitializeOnLoadAttributes (638ms)
+			ProcessInitializeOnLoadMethodAttributes (138ms)
+			AfterProcessingInitializeOnLoad (6ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (8ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 1.40 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 3.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 205 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6009 unused Assets / (6.9 MB). Loaded Objects now: 6738.
-Memory consumption went from 184.3 MB to 177.4 MB.
-Total: 14.506700 ms (FindLiveObjects: 0.944100 ms CreateObjectMapping: 1.122200 ms MarkObjects: 7.110800 ms  DeleteObjects: 5.327500 ms)
+Unloading 204 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5989 unused Assets / (2.1 MB). Loaded Objects now: 6759.
+Memory consumption went from 184.9 MB to 182.8 MB.
+Total: 19.423000 ms (FindLiveObjects: 2.320300 ms CreateObjectMapping: 1.124400 ms MarkObjects: 10.808100 ms  DeleteObjects: 5.168200 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 689137.167748 seconds.
-  path: Assets/sounds/boiling 2.mp3
-  artifactKey: Guid(cd9cf089be04d5248b8722084a7ad8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sounds/boiling 2.mp3 using Guid(cd9cf089be04d5248b8722084a7ad8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a31f6b5b85a3494a81adffb01e87be7f') in 0.1688587 seconds
+  Time since last request: 2269.943372 seconds.
+  path: Assets/kitchen1 1.png
+  artifactKey: Guid(c599deb5b27b8cf48a5dc7be163dea4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kitchen1 1.png using Guid(c599deb5b27b8cf48a5dc7be163dea4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a056f27d99f73c6abcd7638b24962007') in 0.3263425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kitchen1.png
+  artifactKey: Guid(899d3f628b8aecc43b753ecba5a0e5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kitchen1.png using Guid(899d3f628b8aecc43b753ecba5a0e5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66bbb75793978062f7b80147caba200c') in 0.0398514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/wallsandfloormoldova1.png
+  artifactKey: Guid(c1c8e4f7bb917844c817f7c895148717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/wallsandfloormoldova1.png using Guid(c1c8e4f7bb917844c817f7c895148717) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d1da79503d5e95f3778a6c90777e576') in 0.0783274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/japaneserestaurant.png
+  artifactKey: Guid(c8f5405a1e627b54694b22a038b165dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/japaneserestaurant.png using Guid(c8f5405a1e627b54694b22a038b165dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '179428ebcb137492f2ec0fed8af7342b') in 0.100121 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.395806 seconds.
+  path: Assets/Data/Ingredients/FainaDeGrauIngrIdient.asset
+  artifactKey: Guid(a3764320d702ffc468dc0b5328cecb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Ingredients/FainaDeGrauIngrIdient.asset using Guid(a3764320d702ffc468dc0b5328cecb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bcf7a8755dcc3b98e853e5f055c32a68') in 0.0019199 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.802077 seconds.
+  path: Assets/UI/Food/food/ingredients/bottleofwater.png
+  artifactKey: Guid(2d7c5168f4d40af4b9f069fc1aeb1d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/bottleofwater.png using Guid(2d7c5168f4d40af4b9f069fc1aeb1d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eab32de5f74877dc77c2f36d04f7fa95') in 0.0159399 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/Food/food/ingredients/cabbage.png
+  artifactKey: Guid(ab37aff542aa70342910aa6d18885292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/cabbage.png using Guid(ab37aff542aa70342910aa6d18885292) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f681e72cb91a5cc671f9c1a762c2787') in 0.0210329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UI/Food/food/ingredients/noodles.png
+  artifactKey: Guid(4986f02e807dc414889b69de4286a23a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/noodles.png using Guid(4986f02e807dc414889b69de4286a23a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4eff11588caffc7bcb42336b8559bd65') in 0.0170325 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UI/Food/food/ingredients/Potato.png
+  artifactKey: Guid(92e1d48c1e06ed847ad8da4f25cfd0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Potato.png using Guid(92e1d48c1e06ed847ad8da4f25cfd0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a418c50b0b8d9f698be7a009d2e7f400') in 0.0179319 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/Food/food/ingredients/norisheets.png
+  artifactKey: Guid(149cc0bcd019a634e8d51a61b1432fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/norisheets.png using Guid(149cc0bcd019a634e8d51a61b1432fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c54199e967235d443d6520649089345f') in 0.0132288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UI/Food/food/ingredients/Honey.png
+  artifactKey: Guid(d4eed4d5eed6bb147ad956ddc95cfa44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Honey.png using Guid(d4eed4d5eed6bb147ad956ddc95cfa44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd11cbeb601a7451f5abed6fcb47825ff') in 0.0137057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UI/Food/food/ingredients/PepperRed.png
+  artifactKey: Guid(47dc71a5809ccf443ab7cdcdf2309ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/PepperRed.png using Guid(47dc71a5809ccf443ab7cdcdf2309ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0131ced4059ee1369af3a872c67a17e') in 0.0116922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UI/Food/food/ingredients/pork.png
+  artifactKey: Guid(11c4d3adec4d0c84cadff13b2af9e61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/pork.png using Guid(11c4d3adec4d0c84cadff13b2af9e61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f59fcf1b2887ac1f3b332ab99680bcd4') in 0.015916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UI/Food/food/ingredients/salt.png
+  artifactKey: Guid(b830b24d62604434290b63574eb1b46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/salt.png using Guid(b830b24d62604434290b63574eb1b46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66013f8ead52d81d80c94b5c9a169764') in 0.0131482 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/Food/food/ingredients/fish.png
+  artifactKey: Guid(3d91e377c4c4d8846a5a03bef6ab357d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/fish.png using Guid(3d91e377c4c4d8846a5a03bef6ab357d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a9b606f0494308bcd4da1f25a2f4132') in 0.0135029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UI/Food/food/ingredients/curry.png
+  artifactKey: Guid(018dbedb27c45724eae79a0c9634de7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/curry.png using Guid(018dbedb27c45724eae79a0c9634de7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bab3b05f09c79a3084d582622c4092f5') in 0.0134516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/UI/Food/food/ingredients/garlic.png
+  artifactKey: Guid(606a46ad8938227458fa759b316c874a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/garlic.png using Guid(606a46ad8938227458fa759b316c874a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb4578cec1ae93d012eb988054eda976') in 0.0129734 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UI/Food/food/ingredients/Pickle.png
+  artifactKey: Guid(f242051651d5e5245897ed56c37e914b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Pickle.png using Guid(f242051651d5e5245897ed56c37e914b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d5299cc4db5884098376fa34f0df723') in 0.0151835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UI/Food/food/ingredients/Jam.png
+  artifactKey: Guid(757fd861906c8bd45a68cd8889db03b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Jam.png using Guid(757fd861906c8bd45a68cd8889db03b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3c8b0f9292cf17bca7fde14bfefed72') in 0.0175059 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UI/Food/food/ingredients/Tomato.png
+  artifactKey: Guid(b61bbc5cdbb6c8a47ae65631c43131f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/Tomato.png using Guid(b61bbc5cdbb6c8a47ae65631c43131f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '646a2baab4bb738ec206ec785233274e') in 0.0158032 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UI/Food/food/ingredients/chicken.png
+  artifactKey: Guid(bf16a1f2f7843a243b09353c148093ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/chicken.png using Guid(bf16a1f2f7843a243b09353c148093ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98d85a1dd03e376385112ae108214d4d') in 0.0175237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/Food/food/ingredients/milk.png
+  artifactKey: Guid(bf5783972f2290749b76a227124a1e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/milk.png using Guid(bf5783972f2290749b76a227124a1e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '113b2392936587ba606d91dd2e7be1d8') in 0.0188591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UI/Food/food/ingredients/vanilla extract.png
+  artifactKey: Guid(a55fafd0b4956f1499faa1931edadfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/vanilla extract.png using Guid(a55fafd0b4956f1499faa1931edadfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '197e395315e0d25c197eae9779389d53') in 0.0181798 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UI/Food/food/ingredients/salmon.png
+  artifactKey: Guid(8f09958fc8377a244ab20f47511d7460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Food/food/ingredients/salmon.png using Guid(8f09958fc8377a244ab20f47511d7460) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61abb235d576134e28dbd2c643635aa8') in 0.0164469 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
