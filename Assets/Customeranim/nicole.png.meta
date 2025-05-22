@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: a56bbcb5ab003bc40b0a6031d0bf078a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6777408937088187536
+    second: nicole_0
+  - first:
+      213: 3934656494794018360
+    second: nicole_1
+  - first:
+      213: -7592190273098071122
+    second: nicole_2
+  - first:
+      213: -1746371067671404789
+    second: nicole_3
+  - first:
+      213: 5569506165315183580
+    second: nicole_4
+  - first:
+      213: 5239826188154289346
+    second: nicole_5
+  - first:
+      213: -5520983453357549845
+    second: nicole_6
+  - first:
+      213: 1631248572312286226
+    second: nicole_7
+  - first:
+      213: -3040614011505926322
+    second: nicole_8
+  - first:
+      213: 966949980724278946
+    second: nicole_9
+  - first:
+      213: 1393409437965281182
+    second: nicole_10
+  - first:
+      213: -3862679251487208517
+    second: nicole_11
+  - first:
+      213: 5561697387636143158
+    second: nicole_12
+  - first:
+      213: 8707049212776426376
+    second: nicole_13
+  - first:
+      213: 6751731378878478878
+    second: nicole_14
+  - first:
+      213: -7239429426492161749
+    second: nicole_15
+  - first:
+      213: -4865584063313808762
+    second: nicole_16
+  - first:
+      213: 5211001020213398208
+    second: nicole_17
+  - first:
+      213: -1538872676304272071
+    second: nicole_18
+  - first:
+      213: 5361333696025071141
+    second: nicole_19
+  - first:
+      213: 3886960534828184127
+    second: nicole_20
+  - first:
+      213: -8974576195056967694
+    second: nicole_21
+  - first:
+      213: 3340639383630353875
+    second: nicole_22
+  - first:
+      213: 1482610455734614971
+    second: nicole_23
+  - first:
+      213: 5730246516137958367
+    second: nicole_24
+  - first:
+      213: -6459904550583873660
+    second: nicole_25
+  - first:
+      213: -8911837389923368769
+    second: nicole_26
+  - first:
+      213: -832789939396379563
+    second: nicole_27
+  - first:
+      213: -1647838187208720806
+    second: nicole_28
+  - first:
+      213: 2219129212629717493
+    second: nicole_29
+  - first:
+      213: 7775789126949817269
+    second: nicole_30
+  - first:
+      213: -8748245010749122300
+    second: nicole_31
+  - first:
+      213: 7667312960428433938
+    second: nicole_32
+  - first:
+      213: -1514817664444032687
+    second: nicole_33
+  - first:
+      213: -6920867158534606505
+    second: nicole_34
+  - first:
+      213: -4783452648651875113
+    second: nicole_35
+  - first:
+      213: 7336338594377995952
+    second: nicole_36
+  - first:
+      213: -6082480855241669833
+    second: nicole_37
+  - first:
+      213: -1361285695115360572
+    second: nicole_38
+  - first:
+      213: 393109589991445836
+    second: nicole_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nicole_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1274
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cf2b025813e0e50800000000000000
+      internalID: 6777408937088187536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1274
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e816d3c35ba9630800000000000000
+      internalID: 3934656494794018360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1274
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea340d8fb2f13a690800000000000000
+      internalID: -7592190273098071122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1274
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f1d6144c4a3c7e0800000000000000
+      internalID: -1746371067671404789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1274
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3a5fd495cda4d40800000000000000
+      internalID: 5569506165315183580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1274
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccb9b5082a97b840800000000000000
+      internalID: 5239826188154289346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1274
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be650d3fcc68163b0800000000000000
+      internalID: -5520983453357549845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1274
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214790d0feb53a610800000000000000
+      internalID: 1631248572312286226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1133
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1d199aa19dc5d0800000000000000
+      internalID: -3040614011505926322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1133
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a634a462eb4b6d00800000000000000
+      internalID: 966949980724278946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1133
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e8905082665310800000000000000
+      internalID: 1393409437965281182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1133
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb45d5afa1056ac0800000000000000
+      internalID: -3862679251487208517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1133
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63435429e4e1f2d40800000000000000
+      internalID: 5561697387636143158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1133
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b22698027a5d870800000000000000
+      internalID: 8707049212776426376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1133
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1af8e8bae7f2bd50800000000000000
+      internalID: 6751731378878478878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1133
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21cc61fa41688b90800000000000000
+      internalID: -7239429426492161749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1020
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f069c219f97cb0800000000000000
+      internalID: -4865584063313808762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1020
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca840e91d1315840800000000000000
+      internalID: 5211001020213398208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1020
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93544564473d4aae0800000000000000
+      internalID: -1538872676304272071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1020
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e08e94798476a40800000000000000
+      internalID: 5361333696025071141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1020
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32756e230241f530800000000000000
+      internalID: 3886960534828184127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1020
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffd3fbff76e37380800000000000000
+      internalID: -8974576195056967694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1020
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d597f7e1d55c5e20800000000000000
+      internalID: 3340639383630353875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1020
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb7752ba5a439410800000000000000
+      internalID: 1482610455734614971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 908
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb92d5a8dce58f40800000000000000
+      internalID: 5730246516137958367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 908
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fc48b890fc956a0800000000000000
+      internalID: -6459904550583873660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 908
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c29d5c1bc25480800000000000000
+      internalID: -8911837389923368769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 908
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c72c166f55174f0800000000000000
+      internalID: -832789939396379563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 908
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eb91c36e3b129e0800000000000000
+      internalID: -1647838187208720806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 908
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f19c7de24eebce10800000000000000
+      internalID: 2219129212629717493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 908
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb4038530729eb60800000000000000
+      internalID: 7775789126949817269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_31
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 908
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409173e438df79680800000000000000
+      internalID: -8748245010749122300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 824
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e51ca384c76a60800000000000000
+      internalID: 7667312960428433938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 824
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159935b2c594afae0800000000000000
+      internalID: -1514817664444032687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 824
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b0e5dcf324ff90800000000000000
+      internalID: -6920867158534606505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 824
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc143de823cd9db0800000000000000
+      internalID: -4783452648651875113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 824
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b693edf419efc560800000000000000
+      internalID: 7336338594377995952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 824
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c43673efa69ba0800000000000000
+      internalID: -6082480855241669833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 824
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c604d86fddbb1de0800000000000000
+      internalID: -1361285695115360572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nicole_39
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 824
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c455d3dd61b947500800000000000000
+      internalID: 393109589991445836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nicole_0: 6777408937088187536
+      nicole_1: 3934656494794018360
+      nicole_10: 1393409437965281182
+      nicole_11: -3862679251487208517
+      nicole_12: 5561697387636143158
+      nicole_13: 8707049212776426376
+      nicole_14: 6751731378878478878
+      nicole_15: -7239429426492161749
+      nicole_16: -4865584063313808762
+      nicole_17: 5211001020213398208
+      nicole_18: -1538872676304272071
+      nicole_19: 5361333696025071141
+      nicole_2: -7592190273098071122
+      nicole_20: 3886960534828184127
+      nicole_21: -8974576195056967694
+      nicole_22: 3340639383630353875
+      nicole_23: 1482610455734614971
+      nicole_24: 5730246516137958367
+      nicole_25: -6459904550583873660
+      nicole_26: -8911837389923368769
+      nicole_27: -832789939396379563
+      nicole_28: -1647838187208720806
+      nicole_29: 2219129212629717493
+      nicole_3: -1746371067671404789
+      nicole_30: 7775789126949817269
+      nicole_31: -8748245010749122300
+      nicole_32: 7667312960428433938
+      nicole_33: -1514817664444032687
+      nicole_34: -6920867158534606505
+      nicole_35: -4783452648651875113
+      nicole_36: 7336338594377995952
+      nicole_37: -6082480855241669833
+      nicole_38: -1361285695115360572
+      nicole_39: 393109589991445836
+      nicole_4: 5569506165315183580
+      nicole_5: 5239826188154289346
+      nicole_6: -5520983453357549845
+      nicole_7: 1631248572312286226
+      nicole_8: -3040614011505926322
+      nicole_9: 966949980724278946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

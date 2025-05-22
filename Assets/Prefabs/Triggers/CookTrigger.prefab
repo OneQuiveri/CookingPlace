@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8869723415755337696}
   - component: {fileID: 7049768641244800016}
   - component: {fileID: 2158918773142706654}
+  - component: {fileID: 8920790003927835597}
   m_Layer: 0
   m_Name: CookTrigger
   m_TagString: Untagged
@@ -119,6 +120,12 @@ MonoBehaviour:
   recipePanelConteiner: {fileID: 3855005501618163789}
   readyProductImage: {fileID: 2394445707951458867}
   NonProductSprite: {fileID: -1690058490505936662, guid: 9dbad2a1d5c893241a33238ab794a670, type: 3}
+  auidioSource: {fileID: 8920790003927835597}
+  randomClipSounds:
+  - {fileID: 8300000, guid: 65d9ecd65f92b994191c288ef7df7b55, type: 3}
+  - {fileID: 8300000, guid: cd9cf089be04d5248b8722084a7ad8cd, type: 3}
+  - {fileID: 8300000, guid: 320b46d756b8b2a4080c88c9f048bb07, type: 3}
+  - {fileID: 8300000, guid: be3ddb243d6db844c973aacb6900321a, type: 3}
 --- !u!61 &7049768641244800016
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -187,6 +194,103 @@ MonoBehaviour:
   interactTrigerAction: {fileID: 0}
   exitTrigerAction: {fileID: 11400000, guid: 1686d3e11b14ec344a5bd5a9476e6f7f, type: 2}
   cookingPotPanel: {fileID: 4860645660492718627}
+--- !u!82 &8920790003927835597
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5214919178612585609}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1001 &6265903424401082173
 PrefabInstance:
   m_ObjectHideFlags: 0

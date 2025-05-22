@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Repositories\\CookingPlace\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|c:\\repositories\\cookingplace\\assets\\scripts\\cookingpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cookingpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\managment\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managment\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managment\\playermoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|c:\\repositories\\cookingplace\\assets\\scripts\\managment\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\managment\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managment\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\repositories\\cookingplace\\assets\\clientcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\clientcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repositories\\CookingPlace\\Assets\\ClientCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ClientCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\managment\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\scriptables\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptables\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\cookingpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cookingpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B1B907-8390-15D2-4345-C1FC9EEB014A}|Assembly-CSharp.csproj|C:\\Repositories\\CookingPlace\\assets\\scripts\\ui\\recipepnanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,37 +146,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainMenuManager.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\MainMenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\MainMenuManager.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\MainMenuManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managment\\MainMenuManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\OrderManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\OrderManager.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\OrderManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managment\\OrderManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T23:50:22.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T18:45:47.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientCounter.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\ClientCounter.cs",
-              "RelativeDocumentMoniker": "Assets\\ClientCounter.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\ClientCounter.cs",
-              "RelativeToolTip": "Assets\\ClientCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ClientEmotions.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\ClientEmotions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\ClientEmotions.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\ClientEmotions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\Behaviour\\ClientEmotions.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T23:36:24.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T19:57:07.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMoney.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\PlayerMoney.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\PlayerMoney.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\PlayerMoney.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managment\\PlayerMoney.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:03:17.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AIMovoment.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AIMovoment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\AIMovoment.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AIMovoment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\Behaviour\\AIMovoment.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:24:06.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllyDetection.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AllyDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\AllyDetection.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AllyDetection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\Behaviour\\AllyDetection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:58:37.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "UnlockRoomTrigger.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:29:35.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CookingPot.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\CookingPot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CookingPot.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\CookingPot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CookingPot.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAUwLAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:16:27.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\ClientManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\ClientManager.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\ClientManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managment\\ClientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:49:38.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AI_Brain.cs",
               "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AI_Brain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\AI_Brain.cs",
@@ -189,93 +260,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ClientManager.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\ClientManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\ClientManager.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\ClientManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managment\\ClientManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Title": "ClientCounter.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\ClientCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\ClientCounter.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\ClientCounter.cs",
+              "RelativeToolTip": "Assets\\ClientCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T22:49:38.556Z"
+              "WhenOpened": "2025-05-21T23:36:24.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderManager.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\OrderManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\OrderManager.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\OrderManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managment\\OrderManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\MainMenuManager.cs",
+              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managment\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:45:47.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T23:50:22.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientEmotions.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\ClientEmotions.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\ClientEmotions.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\ClientEmotions.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI\\Behaviour\\ClientEmotions.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T19:57:07.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerMoney.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\PlayerMoney.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managment\\PlayerMoney.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Managment\\PlayerMoney.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managment\\PlayerMoney.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwCoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T18:03:17.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AIMovoment.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AIMovoment.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\AIMovoment.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AIMovoment.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI\\Behaviour\\AIMovoment.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswFAAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T17:24:06.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AllyDetection.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AllyDetection.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\AllyDetection.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\AllyDetection.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI\\Behaviour\\AllyDetection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:58:37.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnlockRoomTrigger.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Triggers\\UnlockRoomTrigger.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:29:35.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ClientStateMachine.cs",
               "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\ClientStateMachine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\ClientStateMachine.cs",
@@ -287,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WaitOrder.cs",
               "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\States\\WaitOrder.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\States\\WaitOrder.cs",
@@ -299,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ExitFromRoom.cs",
               "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\States\\ExitFromRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\States\\ExitFromRoom.cs",
@@ -311,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EnterInRoom.cs",
               "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\States\\EnterInRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\States\\EnterInRoom.cs",
@@ -323,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "GoToGiveOrder.cs",
               "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\AI\\Behaviour\\States\\GoToGiveOrder.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\Behaviour\\States\\GoToGiveOrder.cs",
@@ -335,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "OrderEmotion.cs",
               "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Scriptables\\OrderEmotion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scriptables\\OrderEmotion.cs",
@@ -347,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\Scriptables\\Ingredient.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scriptables\\Ingredient.cs",
@@ -368,18 +376,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T20:42:47.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CookingPot.cs",
-              "DocumentMoniker": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\CookingPot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CookingPot.cs",
-              "ToolTip": "C:\\Repositories\\CookingPlace\\Assets\\Scripts\\CookingPot.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CookingPot.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAkwGUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:16:27.649Z"
             },
             {
               "$type": "Document",

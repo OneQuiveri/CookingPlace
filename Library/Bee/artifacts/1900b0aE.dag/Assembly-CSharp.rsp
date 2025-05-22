@@ -424,6 +424,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/animation.cs"
+"Assets/BackgroundMusicManager.cs"
 "Assets/CameraController.cs"
 "Assets/movement.cs"
 "Assets/Scripts/Actions/ActionObject.cs"

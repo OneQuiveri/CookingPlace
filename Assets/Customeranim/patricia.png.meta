@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: d742b155dba3f154291c180fb81565a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8452277232971278328
+    second: patricia_0
+  - first:
+      213: -3503079228594497373
+    second: patricia_1
+  - first:
+      213: 5875931664728023624
+    second: patricia_2
+  - first:
+      213: -1533955218635752232
+    second: patricia_3
+  - first:
+      213: 837065137641942018
+    second: patricia_4
+  - first:
+      213: -7886170213276330659
+    second: patricia_5
+  - first:
+      213: -6811757812602156455
+    second: patricia_6
+  - first:
+      213: -8993070455081277483
+    second: patricia_7
+  - first:
+      213: -7668260929262035097
+    second: patricia_8
+  - first:
+      213: -1194701430047762902
+    second: patricia_9
+  - first:
+      213: 7104684788639267945
+    second: patricia_10
+  - first:
+      213: -8751656358056790181
+    second: patricia_11
+  - first:
+      213: 2904190770680390290
+    second: patricia_12
+  - first:
+      213: -6123513285732565374
+    second: patricia_13
+  - first:
+      213: 5703297749029813423
+    second: patricia_14
+  - first:
+      213: -5034520159427828968
+    second: patricia_15
+  - first:
+      213: -585125111687303446
+    second: patricia_16
+  - first:
+      213: 2326225111513814533
+    second: patricia_17
+  - first:
+      213: 5871523724588664231
+    second: patricia_18
+  - first:
+      213: -6997122036372194423
+    second: patricia_19
+  - first:
+      213: 1953780258516446450
+    second: patricia_20
+  - first:
+      213: 8087206704319792115
+    second: patricia_21
+  - first:
+      213: -40703420454591308
+    second: patricia_22
+  - first:
+      213: 1019370510652281778
+    second: patricia_23
+  - first:
+      213: 6449499148109025493
+    second: patricia_24
+  - first:
+      213: -3849634309266831702
+    second: patricia_25
+  - first:
+      213: -92354449204744480
+    second: patricia_26
+  - first:
+      213: 262463399660635325
+    second: patricia_27
+  - first:
+      213: 2414520846215498576
+    second: patricia_28
+  - first:
+      213: 8280280093032329181
+    second: patricia_29
+  - first:
+      213: -2681456783709950541
+    second: patricia_30
+  - first:
+      213: 7338408725345913099
+    second: patricia_31
+  - first:
+      213: 3949351392013256246
+    second: patricia_32
+  - first:
+      213: -249230079238130256
+    second: patricia_33
+  - first:
+      213: 6483595805766033680
+    second: patricia_34
+  - first:
+      213: -3582527987460217667
+    second: patricia_35
+  - first:
+      213: 4843774299460342986
+    second: patricia_36
+  - first:
+      213: 404831887078691107
+    second: patricia_37
+  - first:
+      213: -7866914146172282734
+    second: patricia_38
+  - first:
+      213: -3701503890671960122
+    second: patricia_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: patricia_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1274
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7ef5e7c558c4570800000000000000
+      internalID: 8452277232971278328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1274
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8539f6000926fc0800000000000000
+      internalID: -3503079228594497373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1274
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842659097b08b8150800000000000000
+      internalID: 5875931664728023624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1274
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcfbdb1bdb46bae0800000000000000
+      internalID: -1533955218635752232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1274
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ce207ce4add9b00800000000000000
+      internalID: 837065137641942018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1274
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55d56749f1be8290800000000000000
+      internalID: -7886170213276330659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1274
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a4bd31c56c771a0800000000000000
+      internalID: -6811757812602156455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1274
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7e1d48112323380800000000000000
+      internalID: -8993070455081277483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5452205dd49590800000000000000
+      internalID: -7668260929262035097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1134
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a261a5111619b6fe0800000000000000
+      internalID: -1194701430047762902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1134
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cf6fb4c29e89260800000000000000
+      internalID: 7104684788639267945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1134
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b577cbd19eedb8680800000000000000
+      internalID: -8751656358056790181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1134
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2926f5e6e12cd4820800000000000000
+      internalID: 2904190770680390290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1134
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e76824c19e40ba0800000000000000
+      internalID: -6123513285732565374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1134
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facf43bd51f262f40800000000000000
+      internalID: 5703297749029813423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1134
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e2cac69ac12ab0800000000000000
+      internalID: -5034520159427828968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeea7b0afc731e7f0800000000000000
+      internalID: -585125111687303446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1021
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506df5ff969684020800000000000000
+      internalID: 2326225111513814533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1021
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5c26608b7db7150800000000000000
+      internalID: 5871523724588664231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1021
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3afb849a35ee90800000000000000
+      internalID: -6997122036372194423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1021
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc2b062bc83d1b10800000000000000
+      internalID: 1953780258516446450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1021
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3832456a78b3070800000000000000
+      internalID: 8087206704319792115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1021
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b429aa64746f6ff0800000000000000
+      internalID: -40703420454591308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1021
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b310fd1418852e00800000000000000
+      internalID: 1019370510652281778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 909
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d01936ed49318950800000000000000
+      internalID: 6449499148109025493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 909
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa68ef0fdf9539ac0800000000000000
+      internalID: -3849634309266831702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 909
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee69b52e14e7bef0800000000000000
+      internalID: -92354449204744480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 909
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db44057421574a300800000000000000
+      internalID: 262463399660635325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_28
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 909
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b437dbae9128120800000000000000
+      internalID: 2414520846215498576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_29
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 909
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf2ee1bfd679e270800000000000000
+      internalID: 8280280093032329181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 909
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd286e134d89cad0800000000000000
+      internalID: -2681456783709950541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_31
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 909
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09cedaead347d560800000000000000
+      internalID: 7338408725345913099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 825
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636052e9a2aeec630800000000000000
+      internalID: 3949351392013256246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 825
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b53bab309e8a8cf0800000000000000
+      internalID: -249230079238130256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 825
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011a5e5a80c5af950800000000000000
+      internalID: 6483595805766033680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 825
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e985c6cd484ec0800000000000000
+      internalID: -3582527987460217667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 825
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4108bdf0b883340800000000000000
+      internalID: 4843774299460342986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 825
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3219317d4704e9500800000000000000
+      internalID: 404831887078691107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_38
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 825
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298d7e6c34b13d290800000000000000
+      internalID: -7866914146172282734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patricia_39
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 825
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf75c5a2dd91acc0800000000000000
+      internalID: -3701503890671960122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      patricia_0: 8452277232971278328
+      patricia_1: -3503079228594497373
+      patricia_10: 7104684788639267945
+      patricia_11: -8751656358056790181
+      patricia_12: 2904190770680390290
+      patricia_13: -6123513285732565374
+      patricia_14: 5703297749029813423
+      patricia_15: -5034520159427828968
+      patricia_16: -585125111687303446
+      patricia_17: 2326225111513814533
+      patricia_18: 5871523724588664231
+      patricia_19: -6997122036372194423
+      patricia_2: 5875931664728023624
+      patricia_20: 1953780258516446450
+      patricia_21: 8087206704319792115
+      patricia_22: -40703420454591308
+      patricia_23: 1019370510652281778
+      patricia_24: 6449499148109025493
+      patricia_25: -3849634309266831702
+      patricia_26: -92354449204744480
+      patricia_27: 262463399660635325
+      patricia_28: 2414520846215498576
+      patricia_29: 8280280093032329181
+      patricia_3: -1533955218635752232
+      patricia_30: -2681456783709950541
+      patricia_31: 7338408725345913099
+      patricia_32: 3949351392013256246
+      patricia_33: -249230079238130256
+      patricia_34: 6483595805766033680
+      patricia_35: -3582527987460217667
+      patricia_36: 4843774299460342986
+      patricia_37: 404831887078691107
+      patricia_38: -7866914146172282734
+      patricia_39: -3701503890671960122
+      patricia_4: 837065137641942018
+      patricia_5: -7886170213276330659
+      patricia_6: -6811757812602156455
+      patricia_7: -8993070455081277483
+      patricia_8: -7668260929262035097
+      patricia_9: -1194701430047762902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

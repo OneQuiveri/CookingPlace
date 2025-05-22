@@ -51,6 +51,9 @@ public class CookingPot : MonoBehaviour
 
     public Sprite NonProductSprite;
 
+    [SerializeField] AudioSource auidioSource;
+
+    [SerializeField] List<AudioClip> randomClipSounds;
     private void Awake()
     {
         foreach (var recipe in recipes)
@@ -145,14 +148,14 @@ public class CookingPot : MonoBehaviour
         IngredientsToCook.Remove(ing);
     }
 
-    public void Cook(bool value) 
+    public void Cook(bool value)
     {
 
         if (isCooking && value) return;
 
         if (!value && !isCooking) return;
 
-        if(OrderManager.Instance.productReady) return;
+        if (OrderManager.Instance.productReady) return;
 
         if (value && IngredientsToCook.Count == 0)
         {
@@ -162,6 +165,18 @@ public class CookingPot : MonoBehaviour
 
 
         isCooking = value;
+
+        auidioSource.clip = randomClipSounds[Random.Range(0, randomClipSounds.Count)];
+
+        if (value)
+        {
+            auidioSource.Play();
+        }
+        else 
+        {
+            auidioSource.Stop();
+        }
+            
 
         Debug.LogError(isCooking ? "Start cook" : "End Cook");
 
