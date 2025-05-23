@@ -36,6 +36,10 @@ public class UnlockRoomTrigger : TriggerBase<ActionObject>
 
             isPurchased = true;
 
+            playTriggerOnce = true;
+
+            triggered = true;
+
             clientManager.maxClients += addMaxClients;
 
             PlayerMoney.Instance.ReduceMoney(unlockCost);

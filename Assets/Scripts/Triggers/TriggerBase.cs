@@ -10,7 +10,7 @@ public abstract class TriggerBase<T> : MonoBehaviour where T : IAction
 
     public bool playTriggerOnce = false;
 
-    private bool triggered = false;
+    protected bool triggered = false;
 
     public bool playTriggerOnKey = false;
     public bool playTriggerOnEnter = false;

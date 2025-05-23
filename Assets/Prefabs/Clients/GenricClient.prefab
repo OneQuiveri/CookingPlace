@@ -545,16 +545,24 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 62204cfa103529e4186fe1f72d5fa1b8, type: 2}
   - {fileID: 11400000, guid: 23a9825442a89b24d8193e6eddc49d12, type: 2}
   ordersEmotionList:
-  - {fileID: 11400000, guid: a43eef32126544f47962ce1474a1b7b9, type: 2}
-  - {fileID: 11400000, guid: fe2dd48b34936bc4598e38a9e06d06f4, type: 2}
-  - {fileID: 11400000, guid: 6de4f50033681354c9850a7286fb0f14, type: 2}
-  - {fileID: 11400000, guid: 2ed4556aeb2ca894c9e700f467bafcd2, type: 2}
-  - {fileID: 11400000, guid: a3456cae2ccd13d4f99649abb5d45d27, type: 2}
-  - {fileID: 11400000, guid: d93096b806568454085a5c5184354d69, type: 2}
-  - {fileID: 11400000, guid: 0028c72444eb44249ac4b70665d743ea, type: 2}
-  - {fileID: 11400000, guid: 8e3457a3a7be20d4987b8300ce7f05a4, type: 2}
-  - {fileID: 11400000, guid: 1910aa1f7aa611144a7637382a8c22ac, type: 2}
-  - {fileID: 11400000, guid: 99fade80fb24fa44b94ab7ddfc9d8ec1, type: 2}
+  - {fileID: 11400000, guid: de25ccb1567ecad4c9767b65316f7775, type: 2}
+  - {fileID: 11400000, guid: ccd362769ebc6e94995a021950ec8b78, type: 2}
+  - {fileID: 11400000, guid: 292e77eec4f56f64486e9c37225a7a44, type: 2}
+  - {fileID: 11400000, guid: e08509dc8b07ed142947c4ede5d170fd, type: 2}
+  - {fileID: 11400000, guid: 7bb05973ff6b28c459e85eb73b4f1d2e, type: 2}
+  - {fileID: 11400000, guid: 1c7c215fbb8204249a5664ff5cd4a020, type: 2}
+  - {fileID: 11400000, guid: 120c9695101918e45b791becf59826a3, type: 2}
+  - {fileID: 11400000, guid: dfede1d38feeb64458ec585e0d6a2b77, type: 2}
+  - {fileID: 11400000, guid: 8fff025d675bf9442aa6e58c1593338f, type: 2}
+  - {fileID: 11400000, guid: e731fee88f926714ab015817a6e90176, type: 2}
+  - {fileID: 11400000, guid: 77631abffddfff248a45077eacb9389b, type: 2}
+  - {fileID: 11400000, guid: 2a98c1a987ee4284fbd08c7f1a5da437, type: 2}
+  - {fileID: 11400000, guid: 47dc65ddc4e05a44cb3520bbf8bfc8fa, type: 2}
+  - {fileID: 11400000, guid: 01f5faf238c4a7d408ea7795e9efa8a4, type: 2}
+  - {fileID: 11400000, guid: c0212d1d3c6be9948a21057b55e2567c, type: 2}
+  - {fileID: 11400000, guid: 8326a70d44bb0534992dd3002ffa101d, type: 2}
+  - {fileID: 11400000, guid: 1d8553b9320dd634c89d1a68f580ebbd, type: 2}
+  - {fileID: 11400000, guid: 3e4db46b101a07e43a94988653cebd44, type: 2}
   sadEmoSound: {fileID: 8138763621416075633}
   happyEmoSound: {fileID: 3345327959141891269}
   giveOrderEmoSound: {fileID: 2092563768147548630}

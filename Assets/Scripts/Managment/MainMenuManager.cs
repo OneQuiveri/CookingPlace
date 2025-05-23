@@ -14,4 +14,9 @@ public class MainMenuManager : MonoBehaviour
     {
         comics.SetActive(true);
     }
+
+    public void QuitGame() 
+    {
+        Application.Quit();
+    }
 }

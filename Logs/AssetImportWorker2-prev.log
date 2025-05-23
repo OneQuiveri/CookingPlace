@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.28f1 (f336aca0cab5) revision 15939244'; Using compiler version '193933523'; Build Type 'Release'
-OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 15480 MB
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'ru' Physical Memory: 16236 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\6000.0.28f1\Editor\Unity.exe
 -name
 AssetImportWorker2
 -projectPath
-F:/Unity Stuff/CookingPlace
+C:/Repositories/CookingPlace
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-60441
+65233
 -job-worker-count
 5
 -background-job-worker-count
 8
 -asset-garbage-collectors
 1
-Successfully changed project path to: F:/Unity Stuff/CookingPlace
-F:/Unity Stuff/CookingPlace
+Successfully changed project path to: C:/Repositories/CookingPlace
+C:/Repositories/CookingPlace
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,12 +59,12 @@ F:/Unity Stuff/CookingPlace
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [18832]  Target information:
+Player connection [20868]  Target information:
 
-Player connection [18832]  * "[IP] 192.168.0.2 [Port] 0 [Flags] 2 [Guid] 1815629461 [EditorId] 1815629461 [Version] 1048832 [Id] WindowsEditor(7,llynwabie) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [20868]  * "[IP] 192.168.100.4 [Port] 0 [Flags] 2 [Guid] 2492475226 [EditorId] 2492475226 [Version] 1048832 [Id] WindowsEditor(7,OneQuiveri) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [18832] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [18832] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [20868] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20868] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -75,60 +75,62 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 36.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.19 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.28f1 (f336aca0cab5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path F:/Unity Stuff/CookingPlace/Assets
+[Subsystems] Discovering subsystems at path C:/Repositories/CookingPlace/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 4060 Ti (ID=0x2803)
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x24dd)
     Vendor:   NVIDIA
-    VRAM:     7949 MB
-    Driver:   32.0.15.7640
+    VRAM:     8020 MB
+    Driver:   32.0.15.5585
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56008
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56340
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004089 seconds.
-- Loaded All Assemblies, in  0.480 seconds
+Registered in 0.006036 seconds.
+- Loaded All Assemblies, in  0.643 seconds
 Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.380 seconds
-Domain Reload Profiling: 858ms
-	BeginReloadAssembly (232ms)
+- Finished resetting the current domain, in  0.790 seconds
+Domain Reload Profiling: 1430ms
+	BeginReloadAssembly (198ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (36ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (41ms)
-	LoadAllAssembliesAndSetupDomain (161ms)
-		LoadAssemblies (230ms)
+	RebuildCommonClasses (67ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (80ms)
+	LoadAllAssembliesAndSetupDomain (274ms)
+		LoadAssemblies (194ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (158ms)
-			TypeCache.Refresh (157ms)
-				TypeCache.ScanAssembly (137ms)
+		AnalyzeDomain (269ms)
+			TypeCache.Refresh (266ms)
+				TypeCache.ScanAssembly (244ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (0ms)
-	FinalizeReload (380ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (791ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (350ms)
+		SetupLoadedEditorAssemblies (706ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (17ms)
-			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (6ms)
-			ProcessInitializeOnLoadAttributes (249ms)
-			ProcessInitializeOnLoadMethodAttributes (71ms)
-			AfterProcessingInitializeOnLoad (3ms)
+			InitializePlatformSupportModulesInManaged (42ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (414ms)
+			ProcessInitializeOnLoadMethodAttributes (159ms)
+			AfterProcessingInitializeOnLoad (73ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
@@ -136,100 +138,92 @@ Domain Reload Profiling: 858ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.847 seconds
-OnLevelWasLoaded was found on OrderManager
-This message has been deprecated and will be removed in a later version of Unity.
-Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
-Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
-OnLevelWasLoaded was found on OrderManager
-This message has been deprecated and will be removed in a later version of Unity.
-Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Assembly 'Library/ScriptAssemblies/Unity.Collections.CodeGen.dll' will not be loaded due to errors:
+Unable to resolve reference 'Unity.Collections'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+- Loaded All Assemblies, in  1.191 seconds
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
-Missing types referenced from component UniversalRenderPipelineGlobalSettings on game object UniversalRenderPipelineGlobalSettings:
-	UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorAssets, Unity.RenderPipelines.Universal.Runtime (1 object)
+Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.268 seconds
-Domain Reload Profiling: 3113ms
-	BeginReloadAssembly (809ms)
+- Finished resetting the current domain, in  0.931 seconds
+Domain Reload Profiling: 2118ms
+	BeginReloadAssembly (641ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (10ms)
+		DisableScriptedObjects (11ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (88ms)
-	RebuildCommonClasses (55ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (48ms)
-	LoadAllAssembliesAndSetupDomain (919ms)
-		LoadAssemblies (813ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (405ms)
+		LoadAssemblies (431ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (336ms)
-			TypeCache.Refresh (245ms)
-				TypeCache.ScanAssembly (218ms)
-			BuildScriptInfoCaches (76ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (1268ms)
+		AnalyzeDomain (131ms)
+			TypeCache.Refresh (118ms)
+				TypeCache.ScanAssembly (100ms)
+			BuildScriptInfoCaches (9ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (932ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (936ms)
+		SetupLoadedEditorAssemblies (593ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
+			InitializePlatformSupportModulesInManaged (5ms)
 			SetLoadedEditorAssemblies (6ms)
-			BeforeProcessingInitializeOnLoad (63ms)
-			ProcessInitializeOnLoadAttributes (712ms)
-			ProcessInitializeOnLoadMethodAttributes (146ms)
-			AfterProcessingInitializeOnLoad (6ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (370ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (17ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (8ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 3.33 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 204 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 5989 unused Assets / (2.1 MB). Loaded Objects now: 6759.
-Memory consumption went from 184.9 MB to 182.7 MB.
-Total: 53.004400 ms (FindLiveObjects: 6.994800 ms CreateObjectMapping: 15.968600 ms MarkObjects: 26.399000 ms  DeleteObjects: 3.640700 ms)
+Unloading 145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6065 unused Assets / (9.1 MB). Loaded Objects now: 6605.
+Memory consumption went from 160.8 MB to 151.7 MB.
+Total: 102.255300 ms (FindLiveObjects: 2.275000 ms CreateObjectMapping: 3.122100 ms MarkObjects: 21.081400 ms  DeleteObjects: 75.773800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2269.975608 seconds.
-  path: Assets/Group 1597881804.png
-  artifactKey: Guid(62ae240d249971e45acec9e3782bb4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Group 1597881804.png using Guid(62ae240d249971e45acec9e3782bb4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb0fd785fba8be881aef5a4631130539') in 0.3073089 seconds
+  Time since last request: 697751.085326 seconds.
+  path: Assets/UI/FoodAndIngridients/plate.png
+  artifactKey: Guid(5818f29bc651cdf489656e5cacdcf0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/FoodAndIngridients/plate.png using Guid(5818f29bc651cdf489656e5cacdcf0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6625ea1dd99be4500dfcdfc63c082e77') in 0.189488 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Group 1597881804 1.png
-  artifactKey: Guid(85ae3b46cbb10b045b2dee217aa4f510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Group 1597881804 1.png using Guid(85ae3b46cbb10b045b2dee217aa4f510) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33aea4bacf233c93477a1fc03123252e') in 0.0321306 seconds
+  Time since last request: 0.000030 seconds.
+  path: Assets/UI/FoodAndIngridients/redwine.png
+  artifactKey: Guid(7ba3c2ccb6fbfe347b17fc784d3061c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/FoodAndIngridients/redwine.png using Guid(7ba3c2ccb6fbfe347b17fc784d3061c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e50c47e49467d81b4e37ba4ecad29789') in 0.0245196 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/plant1.png
-  artifactKey: Guid(261b0eb87d2dc4f4dab2c37189d995e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/plant1.png using Guid(261b0eb87d2dc4f4dab2c37189d995e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2b1f8123acf5b94b412fb99519a2a96d') in 0.0661488 seconds
+  Time since last request: 0.000047 seconds.
+  path: Assets/UI/FoodAndIngridients/Shit.png
+  artifactKey: Guid(4c64431c077eefc4eb49eaf1e4f5eb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/FoodAndIngridients/Shit.png using Guid(4c64431c077eefc4eb49eaf1e4f5eb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae3b05a314b9b17f2b8406f4a75abc91') in 0.0316279 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Group 1597881803 1.png
-  artifactKey: Guid(1092ff876d8e9d940985304347f71c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Group 1597881803 1.png using Guid(1092ff876d8e9d940985304347f71c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7cd8ae0b2a1b10a20de6d138f2e4ccdc') in 0.0793998 seconds
+  Time since last request: 0.000027 seconds.
+  path: Assets/UI/FoodAndIngridients/sarmale.png
+  artifactKey: Guid(7637f5bda0d2e894c92ecdfd466e6346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/FoodAndIngridients/sarmale.png using Guid(7637f5bda0d2e894c92ecdfd466e6346) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0056a86c49d66ce5e5b160f2bfeebec7') in 0.0277179 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 18.419186 seconds.
-  path: Assets/Data/Ingredients/BreadIngredient.asset
-  artifactKey: Guid(a905bfc4f1cfc064c9619255057fd542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Data/Ingredients/BreadIngredient.asset using Guid(a905bfc4f1cfc064c9619255057fd542) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31b80f85361d95dd0d98e98fb5b046d5') in 0.0020395 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+  Time since last request: 0.000027 seconds.
+  path: Assets/UI/FoodAndIngridients/painecudulceatadezmeura.png
+  artifactKey: Guid(e84fe07efd54c69439a03ab880644e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/FoodAndIngridients/painecudulceatadezmeura.png using Guid(e84fe07efd54c69439a03ab880644e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5063e3217ff124645f13c3f73df38df8') in 0.0254104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0

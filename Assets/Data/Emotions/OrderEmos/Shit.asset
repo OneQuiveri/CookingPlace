@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Shit
   m_EditorClassIdentifier: 
   type: 2
-  emotionSprite: {fileID: 21300000, guid: 4c64431c077eefc4eb49eaf1e4f5eb4f, type: 3}
+  emotionSprite: {fileID: 3233656473797544470, guid: e397ab5c678a752479e5652920e965d3, type: 3}
   orderID: 0

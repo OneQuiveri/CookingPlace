@@ -106,9 +106,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   IngredientsToCook: []
   recipes:
-  - {fileID: 11400000, guid: 33c35c0d681133b46bcb30a70371201b, type: 2}
-  - {fileID: 11400000, guid: 6088efb2fc5506a48b89d3d59a4a9155, type: 2}
-  - {fileID: 11400000, guid: 630aa6cf57a2bc340b266a5ccd669e6a, type: 2}
+  - {fileID: 11400000, guid: 7c3cf9ef7f1bf574a940ba579b2231f1, type: 2}
+  - {fileID: 11400000, guid: 197de502418308a4fa4ed3e4afe3d29c, type: 2}
+  - {fileID: 11400000, guid: c027d57c6daa27c43a62d710d2e9e096, type: 2}
+  - {fileID: 11400000, guid: 2e3fa307a356332428da6685b5eda626, type: 2}
+  - {fileID: 11400000, guid: 593a3f0e755f4c64f8d3f509fcaf5487, type: 2}
+  - {fileID: 11400000, guid: 67d22f887e9ba014689f900e359a448a, type: 2}
+  - {fileID: 11400000, guid: 7619a0e9db52d034aab89aea7195e3bd, type: 2}
+  - {fileID: 11400000, guid: 3748b8ede7fcdd640aeadaac1ac891de, type: 2}
+  - {fileID: 11400000, guid: c19b7869de3266445acf5ab40a82a731, type: 2}
+  - {fileID: 11400000, guid: b1f5d87e4f3d59d4a9daa510c8c51cb3, type: 2}
+  - {fileID: 11400000, guid: ddb691c35d203714b882a0363cd33f06, type: 2}
+  - {fileID: 11400000, guid: ebc106bd70bd48f4ca336d0c0e0b20a2, type: 2}
+  - {fileID: 11400000, guid: 47c7388782af6234dbefb308119dee48, type: 2}
+  - {fileID: 11400000, guid: 6a091bcfdcb98094a83d7b8513292aa9, type: 2}
+  - {fileID: 11400000, guid: 770f64a397100c445aadab94b06d3fae, type: 2}
+  - {fileID: 11400000, guid: 070bf350d8e66b54a828cad5a6e1de88, type: 2}
+  - {fileID: 11400000, guid: 52e59ce350618db4088970e1096a38b9, type: 2}
+  - {fileID: 11400000, guid: 0b413f005b36d93499b206473275db29, type: 2}
   shitProduct: {fileID: 11400000, guid: 5869fe5ed7c653e4fbd2cd92547ccd83, type: 2}
   ingredientToggle: {fileID: 1753314450388204110, guid: 1b758e7d0d8899842955ccff9284b742, type: 3}
   ingredientToggleConteiner: {fileID: 4477635117853253712}

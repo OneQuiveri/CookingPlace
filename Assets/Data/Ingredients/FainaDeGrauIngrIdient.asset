@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 174be4f18d4569b4e8195ddcc81d2843, type: 3}
   m_Name: FainaDeGrauIngrIdient
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: 4045e60ac5dd6424da0230b43a531839, type: 3}
+  icon: {fileID: 21300000, guid: ccef7de4a6ff9f3448fc943efd807fbc, type: 3}
   id: 1
